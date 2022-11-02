@@ -1,0 +1,2178 @@
+Region,Year,Value,Category
+Africa,2007,627335700,forest_area
+Africa,2006,631375900,forest_area
+Africa,2005,635411600,forest_area
+Africa,2004,639452100,forest_area
+Africa,2003,643492100,forest_area
+Africa,2002,647532700,forest_area
+Africa,2001,651572900,forest_area
+Africa,2000,655613100,forest_area
+Africa,1999,659988000,forest_area
+Africa,1998,664362800,forest_area
+Africa,1997,668737300,forest_area
+Africa,1996,673112100,forest_area
+Africa,1995,677487000,forest_area
+Africa,1994,681861400,forest_area
+Africa,1993,686236600,forest_area
+Africa,1992,690611200,forest_area
+Africa,1991,694985800,forest_area
+Africa,1990,699360700,forest_area
+Americas,2007,1528150800,forest_area
+Americas,2006,1532735000,forest_area
+Americas,2005,1537389100,forest_area
+Americas,2004,1541973200,forest_area
+Americas,2003,1546557400,forest_area
+Americas,2002,1551141400,forest_area
+Americas,2001,1555725800,forest_area
+Americas,2000,1560309800,forest_area
+Americas,1999,1564439800,forest_area
+Americas,1998,1568569500,forest_area
+Americas,1997,1572699400,forest_area
+Americas,1996,1576829100,forest_area
+Americas,1995,1580959200,forest_area
+Americas,1994,1585088800,forest_area
+Americas,1993,1589218800,forest_area
+Americas,1992,1593348500,forest_area
+Americas,1991,1597478400,forest_area
+Americas,1990,1601608300,forest_area
+Asia,2007,573582600,forest_area
+Asia,2006,572579800,forest_area
+Asia,2005,571577000,forest_area
+Asia,2004,570573900,forest_area
+Asia,2003,569571100,forest_area
+Asia,2002,568568000,forest_area
+Asia,2001,567564800,forest_area
+Asia,2000,566562300,forest_area
+Asia,1999,567354800,forest_area
+Asia,1998,568147200,forest_area
+Asia,1997,568939600,forest_area
+Asia,1996,569732100,forest_area
+Asia,1995,570515800,forest_area
+Asia,1994,571308300,forest_area
+Asia,1993,572100800,forest_area
+Asia,1992,572893200,forest_area
+Asia,1991,557796200,forest_area
+Asia,1990,558598000,forest_area
+Australia and New Zealand,2007,171633400,forest_area
+Australia and New Zealand,2006,171810200,forest_area
+Australia and New Zealand,2005,171987000,forest_area
+Australia and New Zealand,2004,172163800,forest_area
+Australia and New Zealand,2003,172340600,forest_area
+Australia and New Zealand,2002,172517400,forest_area
+Australia and New Zealand,2001,172694200,forest_area
+Australia and New Zealand,2000,172871000,forest_area
+Australia and New Zealand,1999,173146300,forest_area
+Australia and New Zealand,1998,173421600,forest_area
+Australia and New Zealand,1997,173696900,forest_area
+Australia and New Zealand,1996,173972200,forest_area
+Australia and New Zealand,1995,174247500,forest_area
+Australia and New Zealand,1994,174522800,forest_area
+Australia and New Zealand,1993,174798100,forest_area
+Australia and New Zealand,1992,175073400,forest_area
+Australia and New Zealand,1991,175348700,forest_area
+Australia and New Zealand,1990,175624000,forest_area
+Caribbean,2007,6080300,forest_area
+Caribbean,2006,6026700,forest_area
+Caribbean,2005,5973100,forest_area
+Caribbean,2004,5919500,forest_area
+Caribbean,2003,5865900,forest_area
+Caribbean,2002,5812200,forest_area
+Caribbean,2001,5758800,forest_area
+Caribbean,2000,5705100,forest_area
+Caribbean,1999,5669600,forest_area
+Caribbean,1998,5633900,forest_area
+Caribbean,1997,5598300,forest_area
+Caribbean,1996,5562600,forest_area
+Caribbean,1995,5527200,forest_area
+Caribbean,1994,5491400,forest_area
+Caribbean,1993,5455900,forest_area
+Caribbean,1992,5420200,forest_area
+Caribbean,1991,5384600,forest_area
+Caribbean,1990,5349100,forest_area
+Central America,2007,85487800,forest_area
+Central America,2006,86033400,forest_area
+Central America,2005,86649000,forest_area
+Central America,2004,87194600,forest_area
+Central America,2003,87740200,forest_area
+Central America,2002,88285800,forest_area
+Central America,2001,88831400,forest_area
+Central America,2000,89377000,forest_area
+Central America,1999,90104800,forest_area
+Central America,1998,90832600,forest_area
+Central America,1997,91560400,forest_area
+Central America,1996,92288200,forest_area
+Central America,1995,93016000,forest_area
+Central America,1994,93743800,forest_area
+Central America,1993,94471600,forest_area
+Central America,1992,95199400,forest_area
+Central America,1991,95927200,forest_area
+Central America,1990,96655000,forest_area
+Central Asia,2007,12064700,forest_area
+Central Asia,2006,12051500,forest_area
+Central Asia,2005,12038300,forest_area
+Central Asia,2004,12025100,forest_area
+Central Asia,2003,12011900,forest_area
+Central Asia,2002,11998700,forest_area
+Central Asia,2001,11985500,forest_area
+Central Asia,2000,11972300,forest_area
+Central Asia,1999,11958900,forest_area
+Central Asia,1998,11945500,forest_area
+Central Asia,1997,11932100,forest_area
+Central Asia,1996,11918700,forest_area
+Central Asia,1995,11905400,forest_area
+Central Asia,1994,11892000,forest_area
+Central Asia,1993,11878600,forest_area
+Central Asia,1992,11865200,forest_area
+Eastern Africa,2007,157213400,forest_area
+Eastern Africa,2006,158807300,forest_area
+Eastern Africa,2005,160397000,forest_area
+Eastern Africa,2004,161991000,forest_area
+Eastern Africa,2003,163584800,forest_area
+Eastern Africa,2002,165178900,forest_area
+Eastern Africa,2001,166772800,forest_area
+Eastern Africa,2000,168366700,forest_area
+Eastern Africa,1999,170014800,forest_area
+Eastern Africa,1998,171662900,forest_area
+Eastern Africa,1997,173311000,forest_area
+Eastern Africa,1996,174958900,forest_area
+Eastern Africa,1995,176607000,forest_area
+Eastern Africa,1994,178255000,forest_area
+Eastern Africa,1993,179903200,forest_area
+Eastern Africa,1992,181551100,forest_area
+Eastern Africa,1991,183199200,forest_area
+Eastern Africa,1990,184847200,forest_area
+Eastern Asia,2007,252541600,forest_area
+Eastern Asia,2006,248701800,forest_area
+Eastern Asia,2005,244862000,forest_area
+Eastern Asia,2004,241022200,forest_area
+Eastern Asia,2003,237182400,forest_area
+Eastern Asia,2002,233342600,forest_area
+Eastern Asia,2001,229502800,forest_area
+Eastern Asia,2000,225663000,forest_area
+Eastern Asia,1999,223912200,forest_area
+Eastern Asia,1998,222161400,forest_area
+Eastern Asia,1997,220410600,forest_area
+Eastern Asia,1996,218659800,forest_area
+Eastern Asia,1995,216909000,forest_area
+Eastern Asia,1994,215158200,forest_area
+Eastern Asia,1993,213407400,forest_area
+Eastern Asia,1992,211656600,forest_area
+Eastern Asia,1991,209905800,forest_area
+Eastern Asia,1990,208155000,forest_area
+Eastern Europe,2007,852372200,forest_area
+Eastern Europe,2006,852350100,forest_area
+Eastern Europe,2005,852328000,forest_area
+Eastern Europe,2004,852305900,forest_area
+Eastern Europe,2003,852283800,forest_area
+Eastern Europe,2002,852261700,forest_area
+Eastern Europe,2001,852239600,forest_area
+Eastern Europe,2000,852217500,forest_area
+Eastern Europe,1999,852080800,forest_area
+Eastern Europe,1998,851944200,forest_area
+Eastern Europe,1997,851807500,forest_area
+Eastern Europe,1996,851670900,forest_area
+Eastern Europe,1995,851534200,forest_area
+Eastern Europe,1994,851397500,forest_area
+Eastern Europe,1993,851260900,forest_area
+Eastern Europe,1992,851124200,forest_area
+Eastern Europe,1991,873786600,forest_area
+Eastern Europe,1990,873614100,forest_area
+Europe,2007,1002715000,forest_area
+Europe,2006,1002054600,forest_area
+Europe,2005,1001393900,forest_area
+Europe,2004,1000733300,forest_area
+Europe,2003,1000072800,forest_area
+Europe,2002,999412200,forest_area
+Europe,2001,998751700,forest_area
+Europe,2000,998091100,forest_area
+Europe,1999,997214000,forest_area
+Europe,1998,996337000,forest_area
+Europe,1997,995459900,forest_area
+Europe,1996,994582800,forest_area
+Europe,1995,993705800,forest_area
+Europe,1994,992828700,forest_area
+Europe,1993,991951600,forest_area
+Europe,1992,991074500,forest_area
+Europe,1991,1006087000,forest_area
+Europe,1990,1005200600,forest_area
+European Union,2007,156975600,forest_area
+European Union,2006,156280300,forest_area
+European Union,2005,155584900,forest_area
+European Union,2004,154889500,forest_area
+European Union,2003,154194200,forest_area
+European Union,2002,153498700,forest_area
+European Union,2001,152803400,forest_area
+European Union,2000,152108000,forest_area
+European Union,1999,151361700,forest_area
+European Union,1998,150615500,forest_area
+European Union,1997,149869300,forest_area
+European Union,1996,149123000,forest_area
+European Union,1995,148376800,forest_area
+European Union,1994,147630600,forest_area
+European Union,1993,146884300,forest_area
+European Union,1992,141584800,forest_area
+European Union,1991,132736300,forest_area
+European Union,1990,132022200,forest_area
+LandLocked developing countries,2007,270191100,forest_area
+LandLocked developing countries,2006,272221500,forest_area
+LandLocked developing countries,2005,274252000,forest_area
+LandLocked developing countries,2004,276282500,forest_area
+LandLocked developing countries,2003,278313000,forest_area
+LandLocked developing countries,2002,280343700,forest_area
+LandLocked developing countries,2001,282373800,forest_area
+LandLocked developing countries,2000,284404700,forest_area
+LandLocked developing countries,1999,286548400,forest_area
+LandLocked developing countries,1998,288692100,forest_area
+LandLocked developing countries,1997,290835700,forest_area
+LandLocked developing countries,1996,292979500,forest_area
+LandLocked developing countries,1995,295123300,forest_area
+LandLocked developing countries,1994,297266900,forest_area
+LandLocked developing countries,1993,299410700,forest_area
+LandLocked developing countries,1992,286722200,forest_area
+LandLocked developing countries,1991,274369600,forest_area
+LandLocked developing countries,1990,276382400,forest_area
+Least Developed Countries,2007,547448700,forest_area
+Least Developed Countries,2006,551162300,forest_area
+Least Developed Countries,2005,554871800,forest_area
+Least Developed Countries,2004,558585600,forest_area
+Least Developed Countries,2003,562299200,forest_area
+Least Developed Countries,2002,566013100,forest_area
+Least Developed Countries,2001,569726400,forest_area
+Least Developed Countries,2000,573440400,forest_area
+Least Developed Countries,1999,577439300,forest_area
+Least Developed Countries,1998,581438000,forest_area
+Least Developed Countries,1997,585436500,forest_area
+Least Developed Countries,1996,589435200,forest_area
+Least Developed Countries,1995,593434200,forest_area
+Least Developed Countries,1994,597432600,forest_area
+Least Developed Countries,1993,601431500,forest_area
+Least Developed Countries,1992,605430300,forest_area
+Least Developed Countries,1991,609428800,forest_area
+Least Developed Countries,1990,613427700,forest_area
+Low Income Food Deficit Countries,2007,853500000,forest_area
+Low Income Food Deficit Countries,2006,860416100,forest_area
+Low Income Food Deficit Countries,2005,867397800,forest_area
+Low Income Food Deficit Countries,2004,874314100,forest_area
+Low Income Food Deficit Countries,2003,881230200,forest_area
+Low Income Food Deficit Countries,2002,888146600,forest_area
+Low Income Food Deficit Countries,2001,895062400,forest_area
+Low Income Food Deficit Countries,2000,901978900,forest_area
+Low Income Food Deficit Countries,1999,909029800,forest_area
+Low Income Food Deficit Countries,1998,916080400,forest_area
+Low Income Food Deficit Countries,1997,923130800,forest_area
+Low Income Food Deficit Countries,1996,930181500,forest_area
+Low Income Food Deficit Countries,1995,937232500,forest_area
+Low Income Food Deficit Countries,1994,944282800,forest_area
+Low Income Food Deficit Countries,1993,951333800,forest_area
+Low Income Food Deficit Countries,1992,958384300,forest_area
+Low Income Food Deficit Countries,1991,943011300,forest_area
+Low Income Food Deficit Countries,1990,950122500,forest_area
+Melanesia,2007,33407700,forest_area
+Melanesia,2006,33586600,forest_area
+Melanesia,2005,33765500,forest_area
+Melanesia,2004,33944400,forest_area
+Melanesia,2003,34123300,forest_area
+Melanesia,2002,34302200,forest_area
+Melanesia,2001,34481100,forest_area
+Melanesia,2000,34660000,forest_area
+Melanesia,1999,34836700,forest_area
+Melanesia,1998,35013300,forest_area
+Melanesia,1997,35190000,forest_area
+Melanesia,1996,35366600,forest_area
+Melanesia,1995,35543300,forest_area
+Melanesia,1994,35719900,forest_area
+Melanesia,1993,35896600,forest_area
+Melanesia,1992,36073200,forest_area
+Melanesia,1991,36249900,forest_area
+Melanesia,1990,36426500,forest_area
+Micronesia,2007,165300,forest_area
+Micronesia,2006,165100,forest_area
+Micronesia,2005,165100,forest_area
+Micronesia,2004,165100,forest_area
+Micronesia,2003,165000,forest_area
+Micronesia,2002,165000,forest_area
+Micronesia,2001,164900,forest_area
+Micronesia,2000,164900,forest_area
+Micronesia,1999,164700,forest_area
+Micronesia,1998,164700,forest_area
+Micronesia,1997,164700,forest_area
+Micronesia,1996,164600,forest_area
+Micronesia,1995,164600,forest_area
+Micronesia,1994,28100,forest_area
+Micronesia,1993,28100,forest_area
+Micronesia,1992,28100,forest_area
+Micronesia,1991,28100,forest_area
+Micronesia,1990,164300,forest_area
+Middle Africa,2007,292909300,forest_area
+Middle Africa,2006,293724700,forest_area
+Middle Africa,2005,294540200,forest_area
+Middle Africa,2004,295355700,forest_area
+Middle Africa,2003,296171100,forest_area
+Middle Africa,2002,296986600,forest_area
+Middle Africa,2001,297802000,forest_area
+Middle Africa,2000,298617500,forest_area
+Middle Africa,1999,299646300,forest_area
+Middle Africa,1998,300674900,forest_area
+Middle Africa,1997,301703700,forest_area
+Middle Africa,1996,302732500,forest_area
+Middle Africa,1995,303761300,forest_area
+Middle Africa,1994,304789900,forest_area
+Middle Africa,1993,305818700,forest_area
+Middle Africa,1992,306847500,forest_area
+Middle Africa,1991,307876100,forest_area
+Middle Africa,1990,308904900,forest_area
+Net Food Importing Developing Countries,2007,746665700,forest_area
+Net Food Importing Developing Countries,2006,751189600,forest_area
+Net Food Importing Developing Countries,2005,755709500,forest_area
+Net Food Importing Developing Countries,2004,760233700,forest_area
+Net Food Importing Developing Countries,2003,764757600,forest_area
+Net Food Importing Developing Countries,2002,769281900,forest_area
+Net Food Importing Developing Countries,2001,773805700,forest_area
+Net Food Importing Developing Countries,2000,778330000,forest_area
+Net Food Importing Developing Countries,1999,783186800,forest_area
+Net Food Importing Developing Countries,1998,788043400,forest_area
+Net Food Importing Developing Countries,1997,792899700,forest_area
+Net Food Importing Developing Countries,1996,797756300,forest_area
+Net Food Importing Developing Countries,1995,802613300,forest_area
+Net Food Importing Developing Countries,1994,807469500,forest_area
+Net Food Importing Developing Countries,1993,812326300,forest_area
+Net Food Importing Developing Countries,1992,817183000,forest_area
+Net Food Importing Developing Countries,1991,822039300,forest_area
+Net Food Importing Developing Countries,1990,826896200,forest_area
+Northern Africa,2007,75469000,forest_area
+Northern Africa,2006,76003400,forest_area
+Northern Africa,2005,76537600,forest_area
+Northern Africa,2004,77072000,forest_area
+Northern Africa,2003,77606200,forest_area
+Northern Africa,2002,78140400,forest_area
+Northern Africa,2001,78674800,forest_area
+Northern Africa,2000,79209000,forest_area
+Northern Africa,1999,79725600,forest_area
+Northern Africa,1998,80242300,forest_area
+Northern Africa,1997,80758800,forest_area
+Northern Africa,1996,81275400,forest_area
+Northern Africa,1995,81792100,forest_area
+Northern Africa,1994,82308700,forest_area
+Northern Africa,1993,82825300,forest_area
+Northern Africa,1992,83342000,forest_area
+Northern Africa,1991,83858500,forest_area
+Northern Africa,1990,84375200,forest_area
+Northern America,2007,613545200,forest_area
+Northern America,2006,613386200,forest_area
+Northern America,2005,613227200,forest_area
+Northern America,2004,613068200,forest_area
+Northern America,2003,612909200,forest_area
+Northern America,2002,612750200,forest_area
+Northern America,2001,612591200,forest_area
+Northern America,2000,612432200,forest_area
+Northern America,1999,612067600,forest_area
+Northern America,1998,611703000,forest_area
+Northern America,1997,611338400,forest_area
+Northern America,1996,610973800,forest_area
+Northern America,1995,610609200,forest_area
+Northern America,1994,610244600,forest_area
+Northern America,1993,609880000,forest_area
+Northern America,1992,609515400,forest_area
+Northern America,1991,609150800,forest_area
+Northern America,1990,608786200,forest_area
+Northern Europe,2007,70993400,forest_area
+Northern Europe,2006,70898400,forest_area
+Northern Europe,2005,70803400,forest_area
+Northern Europe,2004,70708400,forest_area
+Northern Europe,2003,70613400,forest_area
+Northern Europe,2002,70518400,forest_area
+Northern Europe,2001,70423400,forest_area
+Northern Europe,2000,70328400,forest_area
+Northern Europe,1999,70205600,forest_area
+Northern Europe,1998,70082800,forest_area
+Northern Europe,1997,69960000,forest_area
+Northern Europe,1996,69837200,forest_area
+Northern Europe,1995,69714400,forest_area
+Northern Europe,1994,69591600,forest_area
+Northern Europe,1993,69468800,forest_area
+Northern Europe,1992,69346000,forest_area
+Northern Europe,1991,62313700,forest_area
+Northern Europe,1990,62217400,forest_area
+Oceania,2007,205542200,forest_area
+Oceania,2006,205898000,forest_area
+Oceania,2005,206254100,forest_area
+Oceania,2004,206610100,forest_area
+Oceania,2003,206966100,forest_area
+Oceania,2002,207322100,forest_area
+Oceania,2001,207678000,forest_area
+Oceania,2000,208034200,forest_area
+Oceania,1999,208482000,forest_area
+Oceania,1998,208930000,forest_area
+Oceania,1997,209378200,forest_area
+Oceania,1996,209826100,forest_area
+Oceania,1995,210274300,forest_area
+Oceania,1994,210585800,forest_area
+Oceania,1993,211034000,forest_area
+Oceania,1992,211481900,forest_area
+Oceania,1991,211930200,forest_area
+Oceania,1990,212514300,forest_area
+Polynesia,2007,335800,forest_area
+Polynesia,2006,336100,forest_area
+Polynesia,2005,336500,forest_area
+Polynesia,2004,336800,forest_area
+Polynesia,2003,337200,forest_area
+Polynesia,2002,337500,forest_area
+Polynesia,2001,337800,forest_area
+Polynesia,2000,338300,forest_area
+Polynesia,1999,334300,forest_area
+Polynesia,1998,330400,forest_area
+Polynesia,1997,326600,forest_area
+Polynesia,1996,322700,forest_area
+Polynesia,1995,318900,forest_area
+Polynesia,1994,315000,forest_area
+Polynesia,1993,311200,forest_area
+Polynesia,1992,307200,forest_area
+Polynesia,1991,303500,forest_area
+Polynesia,1990,299500,forest_area
+Small Island Developing States,2007,74365300,forest_area
+Small Island Developing States,2006,74511600,forest_area
+Small Island Developing States,2005,74658100,forest_area
+Small Island Developing States,2004,74804500,forest_area
+Small Island Developing States,2003,74951000,forest_area
+Small Island Developing States,2002,75097500,forest_area
+Small Island Developing States,2001,75244000,forest_area
+Small Island Developing States,2000,75390600,forest_area
+Small Island Developing States,1999,75546300,forest_area
+Small Island Developing States,1998,75701900,forest_area
+Small Island Developing States,1997,75857800,forest_area
+Small Island Developing States,1996,76013500,forest_area
+Small Island Developing States,1995,76169500,forest_area
+Small Island Developing States,1994,76188700,forest_area
+Small Island Developing States,1993,76344700,forest_area
+Small Island Developing States,1992,76500300,forest_area
+Small Island Developing States,1991,76656200,forest_area
+Small Island Developing States,1990,76812000,forest_area
+South America,2007,823037500,forest_area
+South America,2006,827288700,forest_area
+South America,2005,831539800,forest_area
+South America,2004,835790900,forest_area
+South America,2003,840042100,forest_area
+South America,2002,844293200,forest_area
+South America,2001,848544400,forest_area
+South America,2000,852795500,forest_area
+South America,1999,856597800,forest_area
+South America,1998,860400000,forest_area
+South America,1997,864202300,forest_area
+South America,1996,868004500,forest_area
+South America,1995,871806800,forest_area
+South America,1994,875609000,forest_area
+South America,1993,879411300,forest_area
+South America,1992,883213500,forest_area
+South America,1991,887015800,forest_area
+South America,1990,890818000,forest_area
+South-Eastern Asia,2007,198361300,forest_area
+South-Eastern Asia,2006,201124300,forest_area
+South-Eastern Asia,2005,203887300,forest_area
+South-Eastern Asia,2004,206650300,forest_area
+South-Eastern Asia,2003,209413300,forest_area
+South-Eastern Asia,2002,212176300,forest_area
+South-Eastern Asia,2001,214939300,forest_area
+South-Eastern Asia,2000,217702300,forest_area
+South-Eastern Asia,1999,220492600,forest_area
+South-Eastern Asia,1998,223282900,forest_area
+South-Eastern Asia,1997,226073200,forest_area
+South-Eastern Asia,1996,228863500,forest_area
+South-Eastern Asia,1995,231653800,forest_area
+South-Eastern Asia,1994,234444100,forest_area
+South-Eastern Asia,1993,237234400,forest_area
+South-Eastern Asia,1992,240024700,forest_area
+South-Eastern Asia,1991,242815000,forest_area
+South-Eastern Asia,1990,245605300,forest_area
+Southern Africa,2007,28980200,forest_area
+Southern Africa,2006,29168100,forest_area
+Southern Africa,2005,29356000,forest_area
+Southern Africa,2004,29543900,forest_area
+Southern Africa,2003,29731800,forest_area
+Southern Africa,2002,29919800,forest_area
+Southern Africa,2001,30107700,forest_area
+Southern Africa,2000,30295600,forest_area
+Southern Africa,1999,30482000,forest_area
+Southern Africa,1998,30668500,forest_area
+Southern Africa,1997,30854900,forest_area
+Southern Africa,1996,31041400,forest_area
+Southern Africa,1995,31227800,forest_area
+Southern Africa,1994,31414200,forest_area
+Southern Africa,1993,31600700,forest_area
+Southern Africa,1992,31787100,forest_area
+Southern Africa,1991,31973600,forest_area
+Southern Africa,1990,32160000,forest_area
+Southern Asia,2007,90946700,forest_area
+Southern Asia,2006,91064000,forest_area
+Southern Asia,2005,91181300,forest_area
+Southern Asia,2004,91298500,forest_area
+Southern Asia,2003,91415800,forest_area
+Southern Asia,2002,91533100,forest_area
+Southern Asia,2001,91650000,forest_area
+Southern Asia,2000,91767600,forest_area
+Southern Asia,1999,91584400,forest_area
+Southern Asia,1998,91401100,forest_area
+Southern Asia,1997,91217800,forest_area
+Southern Asia,1996,91034500,forest_area
+Southern Asia,1995,90851300,forest_area
+Southern Asia,1994,90668000,forest_area
+Southern Asia,1993,90484700,forest_area
+Southern Asia,1992,90301500,forest_area
+Southern Asia,1991,90118200,forest_area
+Southern Asia,1990,89934900,forest_area
+Southern Europe,2007,46409100,forest_area
+Southern Europe,2006,45916600,forest_area
+Southern Europe,2005,45423800,forest_area
+Southern Europe,2004,44931100,forest_area
+Southern Europe,2003,44438500,forest_area
+Southern Europe,2002,43945800,forest_area
+Southern Europe,2001,43453200,forest_area
+Southern Europe,2000,42960500,forest_area
+Southern Europe,1999,42468900,forest_area
+Southern Europe,1998,41977400,forest_area
+Southern Europe,1997,41485800,forest_area
+Southern Europe,1996,40994200,forest_area
+Southern Europe,1995,40502700,forest_area
+Southern Europe,1994,40011100,forest_area
+Southern Europe,1993,39519500,forest_area
+Southern Europe,1992,39027900,forest_area
+Southern Europe,1991,38536400,forest_area
+Southern Europe,1990,38044800,forest_area
+Western Africa,2007,72763800,forest_area
+Western Africa,2006,73672400,forest_area
+Western Africa,2005,74580800,forest_area
+Western Africa,2004,75489500,forest_area
+Western Africa,2003,76398200,forest_area
+Western Africa,2002,77307000,forest_area
+Western Africa,2001,78215600,forest_area
+Western Africa,2000,79124300,forest_area
+Western Africa,1999,80119300,forest_area
+Western Africa,1998,81114200,forest_area
+Western Africa,1997,82108900,forest_area
+Western Africa,1996,83103900,forest_area
+Western Africa,1995,84098800,forest_area
+Western Africa,1994,85093600,forest_area
+Western Africa,1993,86088700,forest_area
+Western Africa,1992,87083500,forest_area
+Western Africa,1991,88078400,forest_area
+Western Africa,1990,89073400,forest_area
+Western Asia,2007,19668300,forest_area
+Western Asia,2006,19638200,forest_area
+Western Asia,2005,19608100,forest_area
+Western Asia,2004,19577800,forest_area
+Western Asia,2003,19547700,forest_area
+Western Asia,2002,19517300,forest_area
+Western Asia,2001,19487200,forest_area
+Western Asia,2000,19457100,forest_area
+Western Asia,1999,19406700,forest_area
+Western Asia,1998,19356300,forest_area
+Western Asia,1997,19305900,forest_area
+Western Asia,1996,19255600,forest_area
+Western Asia,1995,19196300,forest_area
+Western Asia,1994,19146000,forest_area
+Western Asia,1993,19095700,forest_area
+Western Asia,1992,19045200,forest_area
+Western Asia,1991,14957200,forest_area
+Western Asia,1990,14902800,forest_area
+Western Europe,2007,32940300,forest_area
+Western Europe,2006,32889500,forest_area
+Western Europe,2005,32838700,forest_area
+Western Europe,2004,32787900,forest_area
+Western Europe,2003,32737100,forest_area
+Western Europe,2002,32686300,forest_area
+Western Europe,2001,32635500,forest_area
+Western Europe,2000,32584700,forest_area
+Western Europe,1999,32458700,forest_area
+Western Europe,1998,32332600,forest_area
+Western Europe,1997,32206600,forest_area
+Western Europe,1996,32080500,forest_area
+Western Europe,1995,31954500,forest_area
+Western Europe,1994,31828500,forest_area
+Western Europe,1993,31702400,forest_area
+Western Europe,1992,31576400,forest_area
+Western Europe,1991,31450300,forest_area
+Western Europe,1990,31324300,forest_area
+World,2007,3937326300,forest_area
+World,2006,3944643300,forest_area
+World,2005,3952025700,forest_area
+World,2004,3959342600,forest_area
+World,2003,3966659500,forest_area
+World,2002,3973976400,forest_area
+World,2001,3981293200,forest_area
+World,2000,3988610500,forest_area
+World,1999,3997478600,forest_area
+World,1998,4006346500,forest_area
+World,1997,4015214400,forest_area
+World,1996,4024082200,forest_area
+World,1995,4032942100,forest_area
+World,1994,4041673000,forest_area
+World,1993,4050541800,forest_area
+World,1992,4059409300,forest_area
+World,1991,4068277600,forest_area
+World,1990,4077281900,forest_area
+Africa,2007,2964396400,land_area
+Africa,2006,2964396400,land_area
+Africa,2005,2964396400,land_area
+Africa,2004,2964396500,land_area
+Africa,2003,2964396500,land_area
+Africa,2002,2964396500,land_area
+Africa,2001,2964396500,land_area
+Africa,2000,2964396500,land_area
+Africa,1999,2964396500,land_area
+Africa,1998,2964396500,land_area
+Africa,1997,2964396500,land_area
+Africa,1996,2964396500,land_area
+Africa,1995,2964396500,land_area
+Africa,1994,2964396500,land_area
+Africa,1993,2964396500,land_area
+Africa,1992,2964396500,land_area
+Africa,1991,2964396500,land_area
+Africa,1990,2964396500,land_area
+Africa,1989,2964396500,land_area
+Africa,1988,2964396500,land_area
+Africa,1987,2964396500,land_area
+Africa,1986,2964396500,land_area
+Africa,1985,2964396500,land_area
+Africa,1984,2964396500,land_area
+Africa,1983,2964396500,land_area
+Africa,1982,2964396500,land_area
+Africa,1981,2964396500,land_area
+Africa,1980,2964396500,land_area
+Africa,1979,2964396500,land_area
+Africa,1978,2964396500,land_area
+Africa,1977,2964396500,land_area
+Africa,1976,2964396500,land_area
+Africa,1975,2964396500,land_area
+Africa,1974,2964436500,land_area
+Africa,1973,2964476500,land_area
+Africa,1972,2964480500,land_area
+Africa,1971,2964480500,land_area
+Africa,1970,2964480500,land_area
+Africa,1969,2964480500,land_area
+Africa,1968,2964480500,land_area
+Africa,1967,2964480500,land_area
+Africa,1966,2964480500,land_area
+Africa,1965,2964480500,land_area
+Africa,1964,2964480500,land_area
+Africa,1963,2964480500,land_area
+Africa,1962,2964480500,land_area
+Africa,1961,2964480500,land_area
+Americas,2007,3894456000,land_area
+Americas,2006,3894456000,land_area
+Americas,2005,3894456000,land_area
+Americas,2004,3894456000,land_area
+Americas,2003,3894456000,land_area
+Americas,2002,3894456000,land_area
+Americas,2001,3894456000,land_area
+Americas,2000,3894456000,land_area
+Americas,1999,3894160000,land_area
+Americas,1998,3894160000,land_area
+Americas,1997,3894160000,land_area
+Americas,1996,3887285000,land_area
+Americas,1995,3887285000,land_area
+Americas,1994,3887285000,land_area
+Americas,1993,3887285000,land_area
+Americas,1992,3887285000,land_area
+Americas,1991,3887285000,land_area
+Americas,1990,3887285000,land_area
+Americas,1989,3887285000,land_area
+Americas,1988,3887285000,land_area
+Americas,1987,3887285000,land_area
+Americas,1986,3887285000,land_area
+Americas,1985,3887285000,land_area
+Americas,1984,3887285000,land_area
+Americas,1983,3887285000,land_area
+Americas,1982,3887285000,land_area
+Americas,1981,3887285000,land_area
+Americas,1980,3887285000,land_area
+Americas,1979,3887285000,land_area
+Americas,1978,3887285000,land_area
+Americas,1977,3887285000,land_area
+Americas,1976,3887285000,land_area
+Americas,1975,3887298000,land_area
+Americas,1974,3887284000,land_area
+Americas,1973,3887284000,land_area
+Americas,1972,3887284000,land_area
+Americas,1971,3887284000,land_area
+Americas,1970,3887284000,land_area
+Americas,1969,3887284000,land_area
+Americas,1968,3887284000,land_area
+Americas,1967,3887284000,land_area
+Americas,1966,3887284000,land_area
+Americas,1965,3887284000,land_area
+Americas,1964,3887284000,land_area
+Americas,1963,3887284000,land_area
+Americas,1962,3887284000,land_area
+Americas,1961,3887284000,land_area
+Asia,2007,3093948900,land_area
+Asia,2006,3093941400,land_area
+Asia,2005,3093922100,land_area
+Asia,2004,3093926300,land_area
+Asia,2003,3094104300,land_area
+Asia,2002,3094165700,land_area
+Asia,2001,3094212700,land_area
+Asia,2000,3094408200,land_area
+Asia,1999,3095826200,land_area
+Asia,1998,3095864900,land_area
+Asia,1997,3095877400,land_area
+Asia,1996,3095877400,land_area
+Asia,1995,3095285400,land_area
+Asia,1994,3095279400,land_area
+Asia,1993,3095971700,land_area
+Asia,1992,3095971700,land_area
+Asia,1991,2685200000,land_area
+Asia,1990,2685200000,land_area
+Asia,1989,2685200000,land_area
+Asia,1988,2685200000,land_area
+Asia,1987,2685200000,land_area
+Asia,1986,2685210000,land_area
+Asia,1985,2685200000,land_area
+Asia,1984,2685210000,land_area
+Asia,1983,2685360000,land_area
+Asia,1982,2685360000,land_area
+Asia,1981,2685381000,land_area
+Asia,1980,2685371000,land_area
+Asia,1979,2685381000,land_area
+Asia,1978,2685381000,land_area
+Asia,1977,2685381000,land_area
+Asia,1976,2685392000,land_area
+Asia,1975,2685392000,land_area
+Asia,1974,2685405000,land_area
+Asia,1973,2685409000,land_area
+Asia,1972,2685412000,land_area
+Asia,1971,2685422000,land_area
+Asia,1970,2685422000,land_area
+Asia,1969,2685422000,land_area
+Asia,1968,2685422000,land_area
+Asia,1967,2685422000,land_area
+Asia,1966,2685422000,land_area
+Asia,1965,2685422000,land_area
+Asia,1964,2685422000,land_area
+Asia,1963,2685422000,land_area
+Asia,1962,2685422000,land_area
+Asia,1961,2685433000,land_area
+Australia and New Zealand,2007,795005000,land_area
+Australia and New Zealand,2006,795005000,land_area
+Australia and New Zealand,2005,795005000,land_area
+Australia and New Zealand,2004,795005000,land_area
+Australia and New Zealand,2003,795005000,land_area
+Australia and New Zealand,2002,795005000,land_area
+Australia and New Zealand,2001,795005000,land_area
+Australia and New Zealand,2000,795005000,land_area
+Australia and New Zealand,1999,795005000,land_area
+Australia and New Zealand,1998,795005000,land_area
+Australia and New Zealand,1997,795005000,land_area
+Australia and New Zealand,1996,795005000,land_area
+Australia and New Zealand,1995,795005000,land_area
+Australia and New Zealand,1994,795005000,land_area
+Australia and New Zealand,1993,795005000,land_area
+Australia and New Zealand,1992,795005000,land_area
+Australia and New Zealand,1991,795005000,land_area
+Australia and New Zealand,1990,795005000,land_area
+Australia and New Zealand,1989,795005000,land_area
+Australia and New Zealand,1988,795005000,land_area
+Australia and New Zealand,1987,795005000,land_area
+Australia and New Zealand,1986,795005000,land_area
+Australia and New Zealand,1985,795005000,land_area
+Australia and New Zealand,1984,795005000,land_area
+Australia and New Zealand,1983,795005000,land_area
+Australia and New Zealand,1982,795005000,land_area
+Australia and New Zealand,1981,795005000,land_area
+Australia and New Zealand,1980,795005000,land_area
+Australia and New Zealand,1979,795005000,land_area
+Australia and New Zealand,1978,795005000,land_area
+Australia and New Zealand,1977,795005000,land_area
+Australia and New Zealand,1976,795005000,land_area
+Australia and New Zealand,1975,795005000,land_area
+Australia and New Zealand,1974,795005000,land_area
+Australia and New Zealand,1973,795005000,land_area
+Australia and New Zealand,1972,795005000,land_area
+Australia and New Zealand,1971,795005000,land_area
+Australia and New Zealand,1970,795005000,land_area
+Australia and New Zealand,1969,795005000,land_area
+Australia and New Zealand,1968,795005000,land_area
+Australia and New Zealand,1967,795005000,land_area
+Australia and New Zealand,1966,795005000,land_area
+Australia and New Zealand,1965,795005000,land_area
+Australia and New Zealand,1964,795005000,land_area
+Australia and New Zealand,1963,795005000,land_area
+Australia and New Zealand,1962,795005000,land_area
+Australia and New Zealand,1961,795005000,land_area
+Caribbean,2007,22939000,land_area
+Caribbean,2006,22939000,land_area
+Caribbean,2005,22939000,land_area
+Caribbean,2004,22939000,land_area
+Caribbean,2003,22939000,land_area
+Caribbean,2002,22939000,land_area
+Caribbean,2001,22939000,land_area
+Caribbean,2000,22939000,land_area
+Caribbean,1999,22939000,land_area
+Caribbean,1998,22939000,land_area
+Caribbean,1997,22939000,land_area
+Caribbean,1996,22939000,land_area
+Caribbean,1995,22939000,land_area
+Caribbean,1994,22939000,land_area
+Caribbean,1993,22939000,land_area
+Caribbean,1992,22939000,land_area
+Caribbean,1991,22939000,land_area
+Caribbean,1990,22939000,land_area
+Caribbean,1989,22939000,land_area
+Caribbean,1988,22939000,land_area
+Caribbean,1987,22939000,land_area
+Caribbean,1986,22939000,land_area
+Caribbean,1985,22939000,land_area
+Caribbean,1984,22939000,land_area
+Caribbean,1983,22939000,land_area
+Caribbean,1982,22939000,land_area
+Caribbean,1981,22939000,land_area
+Caribbean,1980,22939000,land_area
+Caribbean,1979,22939000,land_area
+Caribbean,1978,22939000,land_area
+Caribbean,1977,22939000,land_area
+Caribbean,1976,22939000,land_area
+Caribbean,1975,22939000,land_area
+Caribbean,1974,22939000,land_area
+Caribbean,1973,22939000,land_area
+Caribbean,1972,22939000,land_area
+Caribbean,1971,22939000,land_area
+Caribbean,1970,22939000,land_area
+Caribbean,1969,22939000,land_area
+Caribbean,1968,22939000,land_area
+Caribbean,1967,22939000,land_area
+Caribbean,1966,22939000,land_area
+Caribbean,1965,22939000,land_area
+Caribbean,1964,22939000,land_area
+Caribbean,1963,22939000,land_area
+Caribbean,1962,22939000,land_area
+Caribbean,1961,22939000,land_area
+Central America,2007,245192000,land_area
+Central America,2006,245192000,land_area
+Central America,2005,245192000,land_area
+Central America,2004,245192000,land_area
+Central America,2003,245192000,land_area
+Central America,2002,245192000,land_area
+Central America,2001,245192000,land_area
+Central America,2000,245192000,land_area
+Central America,1999,245192000,land_area
+Central America,1998,245192000,land_area
+Central America,1997,245192000,land_area
+Central America,1996,245192000,land_area
+Central America,1995,245192000,land_area
+Central America,1994,245192000,land_area
+Central America,1993,245192000,land_area
+Central America,1992,245192000,land_area
+Central America,1991,245192000,land_area
+Central America,1990,245192000,land_area
+Central America,1989,245192000,land_area
+Central America,1988,245192000,land_area
+Central America,1987,245192000,land_area
+Central America,1986,245192000,land_area
+Central America,1985,245192000,land_area
+Central America,1984,245192000,land_area
+Central America,1983,245192000,land_area
+Central America,1982,245192000,land_area
+Central America,1981,245192000,land_area
+Central America,1980,245192000,land_area
+Central America,1979,245192000,land_area
+Central America,1978,245192000,land_area
+Central America,1977,245192000,land_area
+Central America,1976,245192000,land_area
+Central America,1975,245205000,land_area
+Central America,1974,245205000,land_area
+Central America,1973,245205000,land_area
+Central America,1972,245205000,land_area
+Central America,1971,245205000,land_area
+Central America,1970,245205000,land_area
+Central America,1969,245205000,land_area
+Central America,1968,245205000,land_area
+Central America,1967,245205000,land_area
+Central America,1966,245205000,land_area
+Central America,1965,245205000,land_area
+Central America,1964,245205000,land_area
+Central America,1963,245205000,land_area
+Central America,1962,245205000,land_area
+Central America,1961,245205000,land_area
+Central Asia,2007,392679000,land_area
+Central Asia,2006,392679000,land_area
+Central Asia,2005,392679000,land_area
+Central Asia,2004,392679000,land_area
+Central Asia,2003,392679000,land_area
+Central Asia,2002,392679000,land_area
+Central Asia,2001,392679000,land_area
+Central Asia,2000,392679000,land_area
+Central Asia,1999,392679000,land_area
+Central Asia,1998,392679000,land_area
+Central Asia,1997,392679000,land_area
+Central Asia,1996,392679000,land_area
+Central Asia,1995,392679000,land_area
+Central Asia,1994,392679000,land_area
+Central Asia,1993,392679000,land_area
+Central Asia,1992,392679000,land_area
+Eastern Africa,2007,605345400,land_area
+Eastern Africa,2006,605345400,land_area
+Eastern Africa,2005,605345400,land_area
+Eastern Africa,2004,605345500,land_area
+Eastern Africa,2003,605345500,land_area
+Eastern Africa,2002,605345500,land_area
+Eastern Africa,2001,605345500,land_area
+Eastern Africa,2000,605345500,land_area
+Eastern Africa,1999,605345500,land_area
+Eastern Africa,1998,605345500,land_area
+Eastern Africa,1997,605345500,land_area
+Eastern Africa,1996,605345500,land_area
+Eastern Africa,1995,605345500,land_area
+Eastern Africa,1994,605345500,land_area
+Eastern Africa,1993,605345500,land_area
+Eastern Africa,1992,605345500,land_area
+Eastern Africa,1991,605345500,land_area
+Eastern Africa,1990,605345500,land_area
+Eastern Africa,1989,605345500,land_area
+Eastern Africa,1988,605345500,land_area
+Eastern Africa,1987,605345500,land_area
+Eastern Africa,1986,605345500,land_area
+Eastern Africa,1985,605345500,land_area
+Eastern Africa,1984,605345500,land_area
+Eastern Africa,1983,605345500,land_area
+Eastern Africa,1982,605345500,land_area
+Eastern Africa,1981,605345500,land_area
+Eastern Africa,1980,605345500,land_area
+Eastern Africa,1979,605345500,land_area
+Eastern Africa,1978,605345500,land_area
+Eastern Africa,1977,605345500,land_area
+Eastern Africa,1976,605345500,land_area
+Eastern Africa,1975,605345500,land_area
+Eastern Africa,1974,605345500,land_area
+Eastern Africa,1973,605345500,land_area
+Eastern Africa,1972,605345500,land_area
+Eastern Africa,1971,605345500,land_area
+Eastern Africa,1970,605345500,land_area
+Eastern Africa,1969,605345500,land_area
+Eastern Africa,1968,605345500,land_area
+Eastern Africa,1967,605345500,land_area
+Eastern Africa,1966,605345500,land_area
+Eastern Africa,1965,605345500,land_area
+Eastern Africa,1964,605345500,land_area
+Eastern Africa,1963,605345500,land_area
+Eastern Africa,1962,605345500,land_area
+Eastern Africa,1961,605345500,land_area
+Eastern Asia,2007,1146287900,land_area
+Eastern Asia,2006,1146283900,land_area
+Eastern Asia,2005,1146280800,land_area
+Eastern Asia,2004,1146277800,land_area
+Eastern Asia,2003,1146275700,land_area
+Eastern Asia,2002,1146274700,land_area
+Eastern Asia,2001,1146269600,land_area
+Eastern Asia,2000,1146468000,land_area
+Eastern Asia,1999,1146468000,land_area
+Eastern Asia,1998,1146468000,land_area
+Eastern Asia,1997,1146468000,land_area
+Eastern Asia,1996,1146468000,land_area
+Eastern Asia,1995,1146478000,land_area
+Eastern Asia,1994,1146472000,land_area
+Eastern Asia,1993,1146472000,land_area
+Eastern Asia,1992,1146472000,land_area
+Eastern Asia,1991,1146472000,land_area
+Eastern Asia,1990,1146472000,land_area
+Eastern Asia,1989,1146472000,land_area
+Eastern Asia,1988,1146472000,land_area
+Eastern Asia,1987,1146472000,land_area
+Eastern Asia,1986,1146482000,land_area
+Eastern Asia,1985,1146472000,land_area
+Eastern Asia,1984,1146482000,land_area
+Eastern Asia,1983,1146632000,land_area
+Eastern Asia,1982,1146632000,land_area
+Eastern Asia,1981,1146653000,land_area
+Eastern Asia,1980,1146643000,land_area
+Eastern Asia,1979,1146653000,land_area
+Eastern Asia,1978,1146653000,land_area
+Eastern Asia,1977,1146653000,land_area
+Eastern Asia,1976,1146664000,land_area
+Eastern Asia,1975,1146664000,land_area
+Eastern Asia,1974,1146675000,land_area
+Eastern Asia,1973,1146675000,land_area
+Eastern Asia,1972,1146675000,land_area
+Eastern Asia,1971,1146685000,land_area
+Eastern Asia,1970,1146685000,land_area
+Eastern Asia,1969,1146685000,land_area
+Eastern Asia,1968,1146685000,land_area
+Eastern Asia,1967,1146685000,land_area
+Eastern Asia,1966,1146685000,land_area
+Eastern Asia,1965,1146685000,land_area
+Eastern Asia,1964,1146685000,land_area
+Eastern Asia,1963,1146685000,land_area
+Eastern Asia,1962,1146685000,land_area
+Eastern Asia,1961,1146685000,land_area
+Eastern Europe,2007,1805057000,land_area
+Eastern Europe,2006,1805073000,land_area
+Eastern Europe,2005,1805641000,land_area
+Eastern Europe,2004,1805430000,land_area
+Eastern Europe,2003,1805598000,land_area
+Eastern Europe,2002,1805594000,land_area
+Eastern Europe,2001,1805519000,land_area
+Eastern Europe,2000,1805610000,land_area
+Eastern Europe,1999,1806336000,land_area
+Eastern Europe,1998,1805616000,land_area
+Eastern Europe,1997,1805345000,land_area
+Eastern Europe,1996,1805282000,land_area
+Eastern Europe,1995,1805323000,land_area
+Eastern Europe,1994,1805622000,land_area
+Eastern Europe,1993,1806106000,land_area
+Eastern Europe,1992,1806475000,land_area
+Eastern Europe,1991,2278308000,land_area
+Eastern Europe,1990,2278297000,land_area
+Eastern Europe,1989,2278299000,land_area
+Eastern Europe,1988,2278400000,land_area
+Eastern Europe,1987,2278403000,land_area
+Eastern Europe,1986,2278405000,land_area
+Eastern Europe,1985,2278408000,land_area
+Eastern Europe,1984,2278411000,land_area
+Eastern Europe,1983,2278416000,land_area
+Eastern Europe,1982,2278422000,land_area
+Eastern Europe,1981,2278422000,land_area
+Eastern Europe,1980,2278425000,land_area
+Eastern Europe,1979,2278430000,land_area
+Eastern Europe,1978,2278437000,land_area
+Eastern Europe,1977,2278438000,land_area
+Eastern Europe,1976,2278441000,land_area
+Eastern Europe,1975,2278444000,land_area
+Eastern Europe,1974,2278449000,land_area
+Eastern Europe,1973,2278454000,land_area
+Eastern Europe,1972,2278458000,land_area
+Eastern Europe,1971,2278459000,land_area
+Eastern Europe,1970,2278460000,land_area
+Eastern Europe,1969,2278461000,land_area
+Eastern Europe,1968,2278461000,land_area
+Eastern Europe,1967,2278462000,land_area
+Eastern Europe,1966,2278463000,land_area
+Eastern Europe,1965,2278464000,land_area
+Eastern Europe,1964,2278465000,land_area
+Eastern Europe,1963,2278465000,land_area
+Eastern Europe,1962,2278464000,land_area
+Eastern Europe,1961,2278466000,land_area
+Europe,2007,2207219000,land_area
+Europe,2006,2207263000,land_area
+Europe,2005,2207883000,land_area
+Europe,2004,2207698000,land_area
+Europe,2003,2207870000,land_area
+Europe,2002,2208034000,land_area
+Europe,2001,2207907000,land_area
+Europe,2000,2208022000,land_area
+Europe,1999,2208787000,land_area
+Europe,1998,2208067000,land_area
+Europe,1997,2207796000,land_area
+Europe,1996,2207733000,land_area
+Europe,1995,2207774000,land_area
+Europe,1994,2208073000,land_area
+Europe,1993,2208557000,land_area
+Europe,1992,2208926000,land_area
+Europe,1991,2664043000,land_area
+Europe,1990,2664032000,land_area
+Europe,1989,2664034000,land_area
+Europe,1988,2664135000,land_area
+Europe,1987,2664138000,land_area
+Europe,1986,2664139000,land_area
+Europe,1985,2664142000,land_area
+Europe,1984,2664145000,land_area
+Europe,1983,2664149000,land_area
+Europe,1982,2664158000,land_area
+Europe,1981,2664158000,land_area
+Europe,1980,2664162000,land_area
+Europe,1979,2664174000,land_area
+Europe,1978,2664179000,land_area
+Europe,1977,2664181000,land_area
+Europe,1976,2664187000,land_area
+Europe,1975,2664196000,land_area
+Europe,1974,2664213000,land_area
+Europe,1973,2664221000,land_area
+Europe,1972,2664225000,land_area
+Europe,1971,2664226000,land_area
+Europe,1970,2664227000,land_area
+Europe,1969,2664228000,land_area
+Europe,1968,2664228000,land_area
+Europe,1967,2664229000,land_area
+Europe,1966,2664230000,land_area
+Europe,1965,2664231000,land_area
+Europe,1964,2664232000,land_area
+Europe,1963,2664232000,land_area
+Europe,1962,2664231000,land_area
+Europe,1961,2664233000,land_area
+European Union,2007,418143000,land_area
+European Union,2006,418157000,land_area
+European Union,2005,418429000,land_area
+European Union,2004,418251000,land_area
+European Union,2003,418446000,land_area
+European Union,2002,418425000,land_area
+European Union,2001,418346000,land_area
+European Union,2000,418371000,land_area
+European Union,1999,418417000,land_area
+European Union,1998,418417000,land_area
+European Union,1997,418410000,land_area
+European Union,1996,418415000,land_area
+European Union,1995,418414000,land_area
+European Union,1994,418417000,land_area
+European Union,1993,418415000,land_area
+European Union,1992,405879000,land_area
+European Union,1991,387149000,land_area
+European Union,1990,387138000,land_area
+European Union,1989,387139000,land_area
+European Union,1988,387240000,land_area
+European Union,1987,387242000,land_area
+European Union,1986,387242000,land_area
+European Union,1985,387244000,land_area
+European Union,1984,387245000,land_area
+European Union,1983,387245000,land_area
+European Union,1982,387250000,land_area
+European Union,1981,387252000,land_area
+European Union,1980,387255000,land_area
+European Union,1979,387265000,land_area
+European Union,1978,387269000,land_area
+European Union,1977,387269000,land_area
+European Union,1976,387274000,land_area
+European Union,1975,387281000,land_area
+European Union,1974,387296000,land_area
+European Union,1973,387303000,land_area
+European Union,1972,387305000,land_area
+European Union,1971,387305000,land_area
+European Union,1970,387306000,land_area
+European Union,1969,387307000,land_area
+European Union,1968,387307000,land_area
+European Union,1967,387308000,land_area
+European Union,1966,387309000,land_area
+European Union,1965,387310000,land_area
+European Union,1964,387311000,land_area
+European Union,1963,387311000,land_area
+European Union,1962,387310000,land_area
+European Union,1961,387312000,land_area
+LandLocked developing countries,2007,1592361300,land_area
+LandLocked developing countries,2006,1592362100,land_area
+LandLocked developing countries,2005,1592364400,land_area
+LandLocked developing countries,2004,1592364600,land_area
+LandLocked developing countries,2003,1592529900,land_area
+LandLocked developing countries,2002,1592527500,land_area
+LandLocked developing countries,2001,1592526100,land_area
+LandLocked developing countries,2000,1592526200,land_area
+LandLocked developing countries,1999,1592503200,land_area
+LandLocked developing countries,1998,1592542900,land_area
+LandLocked developing countries,1997,1592556400,land_area
+LandLocked developing countries,1996,1592557400,land_area
+LandLocked developing countries,1995,1592557400,land_area
+LandLocked developing countries,1994,1592558400,land_area
+LandLocked developing countries,1993,1593251700,land_area
+LandLocked developing countries,1992,1493243700,land_area
+LandLocked developing countries,1991,1083593000,land_area
+LandLocked developing countries,1990,1083593000,land_area
+LandLocked developing countries,1989,1083593000,land_area
+LandLocked developing countries,1988,1083593000,land_area
+LandLocked developing countries,1987,1083593000,land_area
+LandLocked developing countries,1986,1083593000,land_area
+LandLocked developing countries,1985,1083593000,land_area
+LandLocked developing countries,1984,1083593000,land_area
+LandLocked developing countries,1983,1083593000,land_area
+LandLocked developing countries,1982,1083593000,land_area
+LandLocked developing countries,1981,1083593000,land_area
+LandLocked developing countries,1980,1083593000,land_area
+LandLocked developing countries,1979,1083593000,land_area
+LandLocked developing countries,1978,1083593000,land_area
+LandLocked developing countries,1977,1083593000,land_area
+LandLocked developing countries,1976,1083593000,land_area
+LandLocked developing countries,1975,1083593000,land_area
+LandLocked developing countries,1974,1083633000,land_area
+LandLocked developing countries,1973,1083673000,land_area
+LandLocked developing countries,1972,1083673000,land_area
+LandLocked developing countries,1971,1083673000,land_area
+LandLocked developing countries,1970,1083673000,land_area
+LandLocked developing countries,1969,1083673000,land_area
+LandLocked developing countries,1968,1083673000,land_area
+LandLocked developing countries,1967,1083673000,land_area
+LandLocked developing countries,1966,1083673000,land_area
+LandLocked developing countries,1965,1083673000,land_area
+LandLocked developing countries,1964,1083673000,land_area
+LandLocked developing countries,1963,1083673000,land_area
+LandLocked developing countries,1962,1083673000,land_area
+LandLocked developing countries,1961,1083673000,land_area
+Least Developed Countries,2007,2016337400,land_area
+Least Developed Countries,2006,2016332400,land_area
+Least Developed Countries,2005,2016321400,land_area
+Least Developed Countries,2004,2016327500,land_area
+Least Developed Countries,2003,2016507800,land_area
+Least Developed Countries,2002,2016507800,land_area
+Least Developed Countries,2001,2016507800,land_area
+Least Developed Countries,2000,2016507800,land_area
+Least Developed Countries,1999,2016472800,land_area
+Least Developed Countries,1998,2016472800,land_area
+Least Developed Countries,1997,2016472800,land_area
+Least Developed Countries,1996,2016472800,land_area
+Least Developed Countries,1995,2016472800,land_area
+Least Developed Countries,1994,2016472800,land_area
+Least Developed Countries,1993,2017165100,land_area
+Least Developed Countries,1992,2017165100,land_area
+Least Developed Countries,1991,2017165100,land_area
+Least Developed Countries,1990,2017165100,land_area
+Least Developed Countries,1989,2017165100,land_area
+Least Developed Countries,1988,2017165100,land_area
+Least Developed Countries,1987,2017165100,land_area
+Least Developed Countries,1986,2017165100,land_area
+Least Developed Countries,1985,2017165100,land_area
+Least Developed Countries,1984,2017165100,land_area
+Least Developed Countries,1983,2017165100,land_area
+Least Developed Countries,1982,2017165100,land_area
+Least Developed Countries,1981,2017165100,land_area
+Least Developed Countries,1980,2017165100,land_area
+Least Developed Countries,1979,2017165100,land_area
+Least Developed Countries,1978,2017165100,land_area
+Least Developed Countries,1977,2017165100,land_area
+Least Developed Countries,1976,2017165100,land_area
+Least Developed Countries,1975,2017165100,land_area
+Least Developed Countries,1974,2017205100,land_area
+Least Developed Countries,1973,2017245100,land_area
+Least Developed Countries,1972,2017245100,land_area
+Least Developed Countries,1971,2017245100,land_area
+Least Developed Countries,1970,2017245100,land_area
+Least Developed Countries,1969,2017245100,land_area
+Least Developed Countries,1968,2017245100,land_area
+Least Developed Countries,1967,2017245100,land_area
+Least Developed Countries,1966,2017245100,land_area
+Least Developed Countries,1965,2017245100,land_area
+Least Developed Countries,1964,2017245100,land_area
+Least Developed Countries,1963,2017245100,land_area
+Least Developed Countries,1962,2017245100,land_area
+Least Developed Countries,1961,2017245100,land_area
+Low Income Food Deficit Countries,2007,4410788300,land_area
+Low Income Food Deficit Countries,2006,4410790100,land_area
+Low Income Food Deficit Countries,2005,4410778400,land_area
+Low Income Food Deficit Countries,2004,4410776700,land_area
+Low Income Food Deficit Countries,2003,4410946000,land_area
+Low Income Food Deficit Countries,2002,4410962600,land_area
+Low Income Food Deficit Countries,2001,4410962200,land_area
+Low Income Food Deficit Countries,2000,4410962300,land_area
+Low Income Food Deficit Countries,1999,4410939300,land_area
+Low Income Food Deficit Countries,1998,4410979000,land_area
+Low Income Food Deficit Countries,1997,4410992500,land_area
+Low Income Food Deficit Countries,1996,4410993500,land_area
+Low Income Food Deficit Countries,1995,4410993500,land_area
+Low Income Food Deficit Countries,1994,4410994500,land_area
+Low Income Food Deficit Countries,1993,4411687800,land_area
+Low Income Food Deficit Countries,1992,4411679800,land_area
+Low Income Food Deficit Countries,1991,4242189100,land_area
+Low Income Food Deficit Countries,1990,4242189100,land_area
+Low Income Food Deficit Countries,1989,4242189100,land_area
+Low Income Food Deficit Countries,1988,4242189100,land_area
+Low Income Food Deficit Countries,1987,4242189100,land_area
+Low Income Food Deficit Countries,1986,4242189100,land_area
+Low Income Food Deficit Countries,1985,4242189100,land_area
+Low Income Food Deficit Countries,1984,4242189100,land_area
+Low Income Food Deficit Countries,1983,4242189100,land_area
+Low Income Food Deficit Countries,1982,4242189100,land_area
+Low Income Food Deficit Countries,1981,4242189100,land_area
+Low Income Food Deficit Countries,1980,4242189100,land_area
+Low Income Food Deficit Countries,1979,4242189100,land_area
+Low Income Food Deficit Countries,1978,4242189100,land_area
+Low Income Food Deficit Countries,1977,4242189100,land_area
+Low Income Food Deficit Countries,1976,4242189100,land_area
+Low Income Food Deficit Countries,1975,4242189100,land_area
+Low Income Food Deficit Countries,1974,4242231100,land_area
+Low Income Food Deficit Countries,1973,4242275100,land_area
+Low Income Food Deficit Countries,1972,4242282100,land_area
+Low Income Food Deficit Countries,1971,4242282100,land_area
+Low Income Food Deficit Countries,1970,4242282100,land_area
+Low Income Food Deficit Countries,1969,4242282100,land_area
+Low Income Food Deficit Countries,1968,4242282100,land_area
+Low Income Food Deficit Countries,1967,4242282100,land_area
+Low Income Food Deficit Countries,1966,4242282100,land_area
+Low Income Food Deficit Countries,1965,4242282100,land_area
+Low Income Food Deficit Countries,1964,4242282100,land_area
+Low Income Food Deficit Countries,1963,4242282100,land_area
+Low Income Food Deficit Countries,1962,4242282100,land_area
+Low Income Food Deficit Countries,1961,4242293100,land_area
+Melanesia,2007,52959000,land_area
+Melanesia,2006,52959000,land_area
+Melanesia,2005,52959000,land_area
+Melanesia,2004,52959000,land_area
+Melanesia,2003,52959000,land_area
+Melanesia,2002,52959000,land_area
+Melanesia,2001,52959000,land_area
+Melanesia,2000,52959000,land_area
+Melanesia,1999,52959000,land_area
+Melanesia,1998,52959000,land_area
+Melanesia,1997,52959000,land_area
+Melanesia,1996,52959000,land_area
+Melanesia,1995,52959000,land_area
+Melanesia,1994,52959000,land_area
+Melanesia,1993,52959000,land_area
+Melanesia,1992,52959000,land_area
+Melanesia,1991,52959000,land_area
+Melanesia,1990,52959000,land_area
+Melanesia,1989,52959000,land_area
+Melanesia,1988,52959000,land_area
+Melanesia,1987,52959000,land_area
+Melanesia,1986,52959000,land_area
+Melanesia,1985,52959000,land_area
+Melanesia,1984,52959000,land_area
+Melanesia,1983,52959000,land_area
+Melanesia,1982,52959000,land_area
+Melanesia,1981,52959000,land_area
+Melanesia,1980,52959000,land_area
+Melanesia,1979,52959000,land_area
+Melanesia,1978,52959000,land_area
+Melanesia,1977,52959000,land_area
+Melanesia,1976,52959000,land_area
+Melanesia,1975,52959000,land_area
+Melanesia,1974,52959000,land_area
+Melanesia,1973,52959000,land_area
+Melanesia,1972,52959000,land_area
+Melanesia,1971,52959000,land_area
+Melanesia,1970,52959000,land_area
+Melanesia,1969,52959000,land_area
+Melanesia,1968,52959000,land_area
+Melanesia,1967,52959000,land_area
+Melanesia,1966,52959000,land_area
+Melanesia,1965,52959000,land_area
+Melanesia,1964,52959000,land_area
+Melanesia,1963,52959000,land_area
+Melanesia,1962,52959000,land_area
+Melanesia,1961,52959000,land_area
+Micronesia,2007,317000,land_area
+Micronesia,2006,317000,land_area
+Micronesia,2005,317000,land_area
+Micronesia,2004,317000,land_area
+Micronesia,2003,317000,land_area
+Micronesia,2002,317000,land_area
+Micronesia,2001,317000,land_area
+Micronesia,2000,317000,land_area
+Micronesia,1999,317000,land_area
+Micronesia,1998,317000,land_area
+Micronesia,1997,317000,land_area
+Micronesia,1996,317000,land_area
+Micronesia,1995,317000,land_area
+Micronesia,1994,137000,land_area
+Micronesia,1993,137000,land_area
+Micronesia,1992,137000,land_area
+Micronesia,1991,137000,land_area
+Micronesia,1990,317000,land_area
+Micronesia,1989,317000,land_area
+Micronesia,1988,317000,land_area
+Micronesia,1987,317000,land_area
+Micronesia,1986,317000,land_area
+Micronesia,1985,317000,land_area
+Micronesia,1984,317000,land_area
+Micronesia,1983,317000,land_area
+Micronesia,1982,317000,land_area
+Micronesia,1981,317000,land_area
+Micronesia,1980,317000,land_area
+Micronesia,1979,317000,land_area
+Micronesia,1978,317000,land_area
+Micronesia,1977,317000,land_area
+Micronesia,1976,317000,land_area
+Micronesia,1975,317000,land_area
+Micronesia,1974,317000,land_area
+Micronesia,1973,317000,land_area
+Micronesia,1972,317000,land_area
+Micronesia,1971,317000,land_area
+Micronesia,1970,317000,land_area
+Micronesia,1969,317000,land_area
+Micronesia,1968,317000,land_area
+Micronesia,1967,317000,land_area
+Micronesia,1966,317000,land_area
+Micronesia,1965,317000,land_area
+Micronesia,1964,317000,land_area
+Micronesia,1963,317000,land_area
+Micronesia,1962,317000,land_area
+Micronesia,1961,317000,land_area
+Middle Africa,2007,649684000,land_area
+Middle Africa,2006,649684000,land_area
+Middle Africa,2005,649684000,land_area
+Middle Africa,2004,649684000,land_area
+Middle Africa,2003,649684000,land_area
+Middle Africa,2002,649684000,land_area
+Middle Africa,2001,649684000,land_area
+Middle Africa,2000,649684000,land_area
+Middle Africa,1999,649684000,land_area
+Middle Africa,1998,649684000,land_area
+Middle Africa,1997,649684000,land_area
+Middle Africa,1996,649684000,land_area
+Middle Africa,1995,649684000,land_area
+Middle Africa,1994,649684000,land_area
+Middle Africa,1993,649684000,land_area
+Middle Africa,1992,649684000,land_area
+Middle Africa,1991,649684000,land_area
+Middle Africa,1990,649684000,land_area
+Middle Africa,1989,649684000,land_area
+Middle Africa,1988,649684000,land_area
+Middle Africa,1987,649684000,land_area
+Middle Africa,1986,649684000,land_area
+Middle Africa,1985,649684000,land_area
+Middle Africa,1984,649684000,land_area
+Middle Africa,1983,649684000,land_area
+Middle Africa,1982,649684000,land_area
+Middle Africa,1981,649684000,land_area
+Middle Africa,1980,649684000,land_area
+Middle Africa,1979,649684000,land_area
+Middle Africa,1978,649684000,land_area
+Middle Africa,1977,649684000,land_area
+Middle Africa,1976,649684000,land_area
+Middle Africa,1975,649684000,land_area
+Middle Africa,1974,649724000,land_area
+Middle Africa,1973,649764000,land_area
+Middle Africa,1972,649764000,land_area
+Middle Africa,1971,649764000,land_area
+Middle Africa,1970,649764000,land_area
+Middle Africa,1969,649764000,land_area
+Middle Africa,1968,649764000,land_area
+Middle Africa,1967,649764000,land_area
+Middle Africa,1966,649764000,land_area
+Middle Africa,1965,649764000,land_area
+Middle Africa,1964,649764000,land_area
+Middle Africa,1963,649764000,land_area
+Middle Africa,1962,649764000,land_area
+Middle Africa,1961,649764000,land_area
+Net Food Importing Developing Countries,2007,2922513400,land_area
+Net Food Importing Developing Countries,2006,2922508400,land_area
+Net Food Importing Developing Countries,2005,2922497400,land_area
+Net Food Importing Developing Countries,2004,2922503500,land_area
+Net Food Importing Developing Countries,2003,2922683800,land_area
+Net Food Importing Developing Countries,2002,2922683800,land_area
+Net Food Importing Developing Countries,2001,2922683800,land_area
+Net Food Importing Developing Countries,2000,2922683800,land_area
+Net Food Importing Developing Countries,1999,2922648800,land_area
+Net Food Importing Developing Countries,1998,2922648800,land_area
+Net Food Importing Developing Countries,1997,2922648800,land_area
+Net Food Importing Developing Countries,1996,2922648800,land_area
+Net Food Importing Developing Countries,1995,2922648800,land_area
+Net Food Importing Developing Countries,1994,2922648800,land_area
+Net Food Importing Developing Countries,1993,2923341100,land_area
+Net Food Importing Developing Countries,1992,2923341100,land_area
+Net Food Importing Developing Countries,1991,2923341100,land_area
+Net Food Importing Developing Countries,1990,2923341100,land_area
+Net Food Importing Developing Countries,1989,2923341100,land_area
+Net Food Importing Developing Countries,1988,2923341100,land_area
+Net Food Importing Developing Countries,1987,2923341100,land_area
+Net Food Importing Developing Countries,1986,2923341100,land_area
+Net Food Importing Developing Countries,1985,2923341100,land_area
+Net Food Importing Developing Countries,1984,2923341100,land_area
+Net Food Importing Developing Countries,1983,2923341100,land_area
+Net Food Importing Developing Countries,1982,2923341100,land_area
+Net Food Importing Developing Countries,1981,2923341100,land_area
+Net Food Importing Developing Countries,1980,2923341100,land_area
+Net Food Importing Developing Countries,1979,2923350100,land_area
+Net Food Importing Developing Countries,1978,2923350100,land_area
+Net Food Importing Developing Countries,1977,2923350100,land_area
+Net Food Importing Developing Countries,1976,2923350100,land_area
+Net Food Importing Developing Countries,1975,2923350100,land_area
+Net Food Importing Developing Countries,1974,2923390100,land_area
+Net Food Importing Developing Countries,1973,2923430100,land_area
+Net Food Importing Developing Countries,1972,2923434100,land_area
+Net Food Importing Developing Countries,1971,2923434100,land_area
+Net Food Importing Developing Countries,1970,2923434100,land_area
+Net Food Importing Developing Countries,1969,2923434100,land_area
+Net Food Importing Developing Countries,1968,2923434100,land_area
+Net Food Importing Developing Countries,1967,2923434100,land_area
+Net Food Importing Developing Countries,1966,2923434100,land_area
+Net Food Importing Developing Countries,1965,2923434100,land_area
+Net Food Importing Developing Countries,1964,2923434100,land_area
+Net Food Importing Developing Countries,1963,2923434100,land_area
+Net Food Importing Developing Countries,1962,2923434100,land_area
+Net Food Importing Developing Countries,1961,2923445100,land_area
+Northern Africa,2007,838039000,land_area
+Northern Africa,2006,838039000,land_area
+Northern Africa,2005,838039000,land_area
+Northern Africa,2004,838039000,land_area
+Northern Africa,2003,838039000,land_area
+Northern Africa,2002,838039000,land_area
+Northern Africa,2001,838039000,land_area
+Northern Africa,2000,838039000,land_area
+Northern Africa,1999,838039000,land_area
+Northern Africa,1998,838039000,land_area
+Northern Africa,1997,838039000,land_area
+Northern Africa,1996,838039000,land_area
+Northern Africa,1995,838039000,land_area
+Northern Africa,1994,838039000,land_area
+Northern Africa,1993,838039000,land_area
+Northern Africa,1992,838039000,land_area
+Northern Africa,1991,838039000,land_area
+Northern Africa,1990,838039000,land_area
+Northern Africa,1989,838039000,land_area
+Northern Africa,1988,838039000,land_area
+Northern Africa,1987,838039000,land_area
+Northern Africa,1986,838039000,land_area
+Northern Africa,1985,838039000,land_area
+Northern Africa,1984,838039000,land_area
+Northern Africa,1983,838039000,land_area
+Northern Africa,1982,838039000,land_area
+Northern Africa,1981,838039000,land_area
+Northern Africa,1980,838039000,land_area
+Northern Africa,1979,838039000,land_area
+Northern Africa,1978,838039000,land_area
+Northern Africa,1977,838039000,land_area
+Northern Africa,1976,838039000,land_area
+Northern Africa,1975,838039000,land_area
+Northern Africa,1974,838039000,land_area
+Northern Africa,1973,838039000,land_area
+Northern Africa,1972,838043000,land_area
+Northern Africa,1971,838043000,land_area
+Northern Africa,1970,838043000,land_area
+Northern Africa,1969,838043000,land_area
+Northern Africa,1968,838043000,land_area
+Northern Africa,1967,838043000,land_area
+Northern Africa,1966,838043000,land_area
+Northern Africa,1965,838043000,land_area
+Northern Africa,1964,838043000,land_area
+Northern Africa,1963,838043000,land_area
+Northern Africa,1962,838043000,land_area
+Northern Africa,1961,838043000,land_area
+Northern America,2007,1866616000,land_area
+Northern America,2006,1866616000,land_area
+Northern America,2005,1866616000,land_area
+Northern America,2004,1866616000,land_area
+Northern America,2003,1866616000,land_area
+Northern America,2002,1866616000,land_area
+Northern America,2001,1866616000,land_area
+Northern America,2000,1866616000,land_area
+Northern America,1999,1866320000,land_area
+Northern America,1998,1866320000,land_area
+Northern America,1997,1866320000,land_area
+Northern America,1996,1859445000,land_area
+Northern America,1995,1859445000,land_area
+Northern America,1994,1859445000,land_area
+Northern America,1993,1859445000,land_area
+Northern America,1992,1859445000,land_area
+Northern America,1991,1859445000,land_area
+Northern America,1990,1859445000,land_area
+Northern America,1989,1859445000,land_area
+Northern America,1988,1859445000,land_area
+Northern America,1987,1859445000,land_area
+Northern America,1986,1859445000,land_area
+Northern America,1985,1859445000,land_area
+Northern America,1984,1859445000,land_area
+Northern America,1983,1859445000,land_area
+Northern America,1982,1859445000,land_area
+Northern America,1981,1859445000,land_area
+Northern America,1980,1859445000,land_area
+Northern America,1979,1859445000,land_area
+Northern America,1978,1859445000,land_area
+Northern America,1977,1859445000,land_area
+Northern America,1976,1859445000,land_area
+Northern America,1975,1859445000,land_area
+Northern America,1974,1859445000,land_area
+Northern America,1973,1859445000,land_area
+Northern America,1972,1859445000,land_area
+Northern America,1971,1859445000,land_area
+Northern America,1970,1859445000,land_area
+Northern America,1969,1859445000,land_area
+Northern America,1968,1859445000,land_area
+Northern America,1967,1859445000,land_area
+Northern America,1966,1859445000,land_area
+Northern America,1965,1859445000,land_area
+Northern America,1964,1859445000,land_area
+Northern America,1963,1859445000,land_area
+Northern America,1962,1859445000,land_area
+Northern America,1961,1859445000,land_area
+Northern Europe,2007,164168000,land_area
+Northern Europe,2006,164169000,land_area
+Northern Europe,2005,164222000,land_area
+Northern Europe,2004,164222000,land_area
+Northern Europe,2003,164222000,land_area
+Northern Europe,2002,164222000,land_area
+Northern Europe,2001,164222000,land_area
+Northern Europe,2000,164198000,land_area
+Northern Europe,1999,164198000,land_area
+Northern Europe,1998,164198000,land_area
+Northern Europe,1997,164198000,land_area
+Northern Europe,1996,164198000,land_area
+Northern Europe,1995,164198000,land_area
+Northern Europe,1994,164198000,land_area
+Northern Europe,1993,164198000,land_area
+Northern Europe,1992,164198000,land_area
+Northern Europe,1991,147482000,land_area
+Northern Europe,1990,147482000,land_area
+Northern Europe,1989,147482000,land_area
+Northern Europe,1988,147482000,land_area
+Northern Europe,1987,147482000,land_area
+Northern Europe,1986,147481000,land_area
+Northern Europe,1985,147481000,land_area
+Northern Europe,1984,147481000,land_area
+Northern Europe,1983,147481000,land_area
+Northern Europe,1982,147481000,land_area
+Northern Europe,1981,147481000,land_area
+Northern Europe,1980,147481000,land_area
+Northern Europe,1979,147481000,land_area
+Northern Europe,1978,147480000,land_area
+Northern Europe,1977,147480000,land_area
+Northern Europe,1976,147480000,land_area
+Northern Europe,1975,147480000,land_area
+Northern Europe,1974,147480000,land_area
+Northern Europe,1973,147480000,land_area
+Northern Europe,1972,147480000,land_area
+Northern Europe,1971,147480000,land_area
+Northern Europe,1970,147480000,land_area
+Northern Europe,1969,147480000,land_area
+Northern Europe,1968,147480000,land_area
+Northern Europe,1967,147480000,land_area
+Northern Europe,1966,147480000,land_area
+Northern Europe,1965,147480000,land_area
+Northern Europe,1964,147480000,land_area
+Northern Europe,1963,147480000,land_area
+Northern Europe,1962,147480000,land_area
+Northern Europe,1961,147480000,land_area
+Oceania,2007,849094700,land_area
+Oceania,2006,849094700,land_area
+Oceania,2005,849094700,land_area
+Oceania,2004,849094700,land_area
+Oceania,2003,849094700,land_area
+Oceania,2002,849094700,land_area
+Oceania,2001,849094700,land_area
+Oceania,2000,849094700,land_area
+Oceania,1999,849094700,land_area
+Oceania,1998,849094700,land_area
+Oceania,1997,849094700,land_area
+Oceania,1996,849094700,land_area
+Oceania,1995,849094700,land_area
+Oceania,1994,848914700,land_area
+Oceania,1993,848914700,land_area
+Oceania,1992,848914700,land_area
+Oceania,1991,848914700,land_area
+Oceania,1990,849094700,land_area
+Oceania,1989,849094700,land_area
+Oceania,1988,849094700,land_area
+Oceania,1987,849094700,land_area
+Oceania,1986,849094700,land_area
+Oceania,1985,849094700,land_area
+Oceania,1984,849094700,land_area
+Oceania,1983,849094700,land_area
+Oceania,1982,849094700,land_area
+Oceania,1981,849094700,land_area
+Oceania,1980,849094700,land_area
+Oceania,1979,849094700,land_area
+Oceania,1978,849094700,land_area
+Oceania,1977,849094700,land_area
+Oceania,1976,849094700,land_area
+Oceania,1975,849094700,land_area
+Oceania,1974,849094700,land_area
+Oceania,1973,849094700,land_area
+Oceania,1972,849094700,land_area
+Oceania,1971,849094700,land_area
+Oceania,1970,849094700,land_area
+Oceania,1969,849094700,land_area
+Oceania,1968,849094700,land_area
+Oceania,1967,849094700,land_area
+Oceania,1966,849094700,land_area
+Oceania,1965,849094700,land_area
+Oceania,1964,849094700,land_area
+Oceania,1963,849094700,land_area
+Oceania,1962,849094700,land_area
+Oceania,1961,849094700,land_area
+Polynesia,2007,813700,land_area
+Polynesia,2006,813700,land_area
+Polynesia,2005,813700,land_area
+Polynesia,2004,813700,land_area
+Polynesia,2003,813700,land_area
+Polynesia,2002,813700,land_area
+Polynesia,2001,813700,land_area
+Polynesia,2000,813700,land_area
+Polynesia,1999,813700,land_area
+Polynesia,1998,813700,land_area
+Polynesia,1997,813700,land_area
+Polynesia,1996,813700,land_area
+Polynesia,1995,813700,land_area
+Polynesia,1994,813700,land_area
+Polynesia,1993,813700,land_area
+Polynesia,1992,813700,land_area
+Polynesia,1991,813700,land_area
+Polynesia,1990,813700,land_area
+Polynesia,1989,813700,land_area
+Polynesia,1988,813700,land_area
+Polynesia,1987,813700,land_area
+Polynesia,1986,813700,land_area
+Polynesia,1985,813700,land_area
+Polynesia,1984,813700,land_area
+Polynesia,1983,813700,land_area
+Polynesia,1982,813700,land_area
+Polynesia,1981,813700,land_area
+Polynesia,1980,813700,land_area
+Polynesia,1979,813700,land_area
+Polynesia,1978,813700,land_area
+Polynesia,1977,813700,land_area
+Polynesia,1976,813700,land_area
+Polynesia,1975,813700,land_area
+Polynesia,1974,813700,land_area
+Polynesia,1973,813700,land_area
+Polynesia,1972,813700,land_area
+Polynesia,1971,813700,land_area
+Polynesia,1970,813700,land_area
+Polynesia,1969,813700,land_area
+Polynesia,1968,813700,land_area
+Polynesia,1967,813700,land_area
+Polynesia,1966,813700,land_area
+Polynesia,1965,813700,land_area
+Polynesia,1964,813700,land_area
+Polynesia,1963,813700,land_area
+Polynesia,1962,813700,land_area
+Polynesia,1961,813700,land_area
+Small Island Developing States,2007,119582700,land_area
+Small Island Developing States,2006,119582400,land_area
+Small Island Developing States,2005,119581900,land_area
+Small Island Developing States,2004,119582000,land_area
+Small Island Developing States,2003,119581800,land_area
+Small Island Developing States,2002,119580600,land_area
+Small Island Developing States,2001,119580100,land_area
+Small Island Developing States,2000,119580100,land_area
+Small Island Developing States,1999,119580100,land_area
+Small Island Developing States,1998,119580100,land_area
+Small Island Developing States,1997,119580100,land_area
+Small Island Developing States,1996,119580100,land_area
+Small Island Developing States,1995,119580100,land_area
+Small Island Developing States,1994,119400100,land_area
+Small Island Developing States,1993,119400100,land_area
+Small Island Developing States,1992,119400100,land_area
+Small Island Developing States,1991,119398100,land_area
+Small Island Developing States,1990,119398100,land_area
+Small Island Developing States,1989,119398100,land_area
+Small Island Developing States,1988,119398100,land_area
+Small Island Developing States,1987,119398100,land_area
+Small Island Developing States,1986,119398100,land_area
+Small Island Developing States,1985,119398100,land_area
+Small Island Developing States,1984,119398100,land_area
+Small Island Developing States,1983,119398100,land_area
+Small Island Developing States,1982,119398100,land_area
+Small Island Developing States,1981,119398100,land_area
+Small Island Developing States,1980,119398100,land_area
+Small Island Developing States,1979,119398100,land_area
+Small Island Developing States,1978,119398100,land_area
+Small Island Developing States,1977,119398100,land_area
+Small Island Developing States,1976,119398100,land_area
+Small Island Developing States,1975,119398100,land_area
+Small Island Developing States,1974,119384100,land_area
+Small Island Developing States,1973,119384100,land_area
+Small Island Developing States,1972,119384100,land_area
+Small Island Developing States,1971,119384100,land_area
+Small Island Developing States,1970,119384100,land_area
+Small Island Developing States,1969,119384100,land_area
+Small Island Developing States,1968,119384100,land_area
+Small Island Developing States,1967,119384100,land_area
+Small Island Developing States,1966,119384100,land_area
+Small Island Developing States,1965,119384100,land_area
+Small Island Developing States,1964,119384100,land_area
+Small Island Developing States,1963,119384100,land_area
+Small Island Developing States,1962,119384100,land_area
+Small Island Developing States,1961,119384100,land_area
+South America,2007,1759709000,land_area
+South America,2006,1759709000,land_area
+South America,2005,1759709000,land_area
+South America,2004,1759709000,land_area
+South America,2003,1759709000,land_area
+South America,2002,1759709000,land_area
+South America,2001,1759709000,land_area
+South America,2000,1759709000,land_area
+South America,1999,1759709000,land_area
+South America,1998,1759709000,land_area
+South America,1997,1759709000,land_area
+South America,1996,1759709000,land_area
+South America,1995,1759709000,land_area
+South America,1994,1759709000,land_area
+South America,1993,1759709000,land_area
+South America,1992,1759709000,land_area
+South America,1991,1759709000,land_area
+South America,1990,1759709000,land_area
+South America,1989,1759709000,land_area
+South America,1988,1759709000,land_area
+South America,1987,1759709000,land_area
+South America,1986,1759709000,land_area
+South America,1985,1759709000,land_area
+South America,1984,1759709000,land_area
+South America,1983,1759709000,land_area
+South America,1982,1759709000,land_area
+South America,1981,1759709000,land_area
+South America,1980,1759709000,land_area
+South America,1979,1759709000,land_area
+South America,1978,1759709000,land_area
+South America,1977,1759709000,land_area
+South America,1976,1759709000,land_area
+South America,1975,1759709000,land_area
+South America,1974,1759695000,land_area
+South America,1973,1759695000,land_area
+South America,1972,1759695000,land_area
+South America,1971,1759695000,land_area
+South America,1970,1759695000,land_area
+South America,1969,1759695000,land_area
+South America,1968,1759695000,land_area
+South America,1967,1759695000,land_area
+South America,1966,1759695000,land_area
+South America,1965,1759695000,land_area
+South America,1964,1759695000,land_area
+South America,1963,1759695000,land_area
+South America,1962,1759695000,land_area
+South America,1961,1759695000,land_area
+South-Eastern Asia,2007,434092700,land_area
+South-Eastern Asia,2006,434087400,land_area
+South-Eastern Asia,2005,434075900,land_area
+South-Eastern Asia,2004,434081900,land_area
+South-Eastern Asia,2003,434093700,land_area
+South-Eastern Asia,2002,434140500,land_area
+South-Eastern Asia,2001,434194000,land_area
+South-Eastern Asia,2000,434191000,land_area
+South-Eastern Asia,1999,435634000,land_area
+South-Eastern Asia,1998,435634000,land_area
+South-Eastern Asia,1997,435634000,land_area
+South-Eastern Asia,1996,435634000,land_area
+South-Eastern Asia,1995,435634000,land_area
+South-Eastern Asia,1994,435634000,land_area
+South-Eastern Asia,1993,435634000,land_area
+South-Eastern Asia,1992,435634000,land_area
+South-Eastern Asia,1991,435634000,land_area
+South-Eastern Asia,1990,435634000,land_area
+South-Eastern Asia,1989,435634000,land_area
+South-Eastern Asia,1988,435634000,land_area
+South-Eastern Asia,1987,435634000,land_area
+South-Eastern Asia,1986,435634000,land_area
+South-Eastern Asia,1985,435634000,land_area
+South-Eastern Asia,1984,435634000,land_area
+South-Eastern Asia,1983,435634000,land_area
+South-Eastern Asia,1982,435634000,land_area
+South-Eastern Asia,1981,435634000,land_area
+South-Eastern Asia,1980,435634000,land_area
+South-Eastern Asia,1979,435634000,land_area
+South-Eastern Asia,1978,435634000,land_area
+South-Eastern Asia,1977,435634000,land_area
+South-Eastern Asia,1976,435634000,land_area
+South-Eastern Asia,1975,435634000,land_area
+South-Eastern Asia,1974,435636000,land_area
+South-Eastern Asia,1973,435640000,land_area
+South-Eastern Asia,1972,435643000,land_area
+South-Eastern Asia,1971,435643000,land_area
+South-Eastern Asia,1970,435643000,land_area
+South-Eastern Asia,1969,435643000,land_area
+South-Eastern Asia,1968,435643000,land_area
+South-Eastern Asia,1967,435643000,land_area
+South-Eastern Asia,1966,435643000,land_area
+South-Eastern Asia,1965,435643000,land_area
+South-Eastern Asia,1964,435643000,land_area
+South-Eastern Asia,1963,435643000,land_area
+South-Eastern Asia,1962,435643000,land_area
+South-Eastern Asia,1961,435643000,land_area
+Southern Africa,2007,265204000,land_area
+Southern Africa,2006,265204000,land_area
+Southern Africa,2005,265204000,land_area
+Southern Africa,2004,265204000,land_area
+Southern Africa,2003,265204000,land_area
+Southern Africa,2002,265204000,land_area
+Southern Africa,2001,265204000,land_area
+Southern Africa,2000,265204000,land_area
+Southern Africa,1999,265204000,land_area
+Southern Africa,1998,265204000,land_area
+Southern Africa,1997,265204000,land_area
+Southern Africa,1996,265204000,land_area
+Southern Africa,1995,265204000,land_area
+Southern Africa,1994,265204000,land_area
+Southern Africa,1993,265204000,land_area
+Southern Africa,1992,265204000,land_area
+Southern Africa,1991,265204000,land_area
+Southern Africa,1990,265204000,land_area
+Southern Africa,1989,265204000,land_area
+Southern Africa,1988,265204000,land_area
+Southern Africa,1987,265204000,land_area
+Southern Africa,1986,265204000,land_area
+Southern Africa,1985,265204000,land_area
+Southern Africa,1984,265204000,land_area
+Southern Africa,1983,265204000,land_area
+Southern Africa,1982,265204000,land_area
+Southern Africa,1981,265204000,land_area
+Southern Africa,1980,265204000,land_area
+Southern Africa,1979,265204000,land_area
+Southern Africa,1978,265204000,land_area
+Southern Africa,1977,265204000,land_area
+Southern Africa,1976,265204000,land_area
+Southern Africa,1975,265204000,land_area
+Southern Africa,1974,265204000,land_area
+Southern Africa,1973,265204000,land_area
+Southern Africa,1972,265204000,land_area
+Southern Africa,1971,265204000,land_area
+Southern Africa,1970,265204000,land_area
+Southern Africa,1969,265204000,land_area
+Southern Africa,1968,265204000,land_area
+Southern Africa,1967,265204000,land_area
+Southern Africa,1966,265204000,land_area
+Southern Africa,1965,265204000,land_area
+Southern Africa,1964,265204000,land_area
+Southern Africa,1963,265204000,land_area
+Southern Africa,1962,265204000,land_area
+Southern Africa,1961,265204000,land_area
+Southern Asia,2007,640169400,land_area
+Southern Asia,2006,640169400,land_area
+Southern Asia,2005,640169400,land_area
+Southern Asia,2004,640169400,land_area
+Southern Asia,2003,640337700,land_area
+Southern Asia,2002,640337700,land_area
+Southern Asia,2001,640337700,land_area
+Southern Asia,2000,640337700,land_area
+Southern Asia,1999,640302700,land_area
+Southern Asia,1998,640302700,land_area
+Southern Asia,1997,640302700,land_area
+Southern Asia,1996,640302700,land_area
+Southern Asia,1995,640302700,land_area
+Southern Asia,1994,640302700,land_area
+Southern Asia,1993,640995000,land_area
+Southern Asia,1992,640995000,land_area
+Southern Asia,1991,640995000,land_area
+Southern Asia,1990,640995000,land_area
+Southern Asia,1989,640995000,land_area
+Southern Asia,1988,640995000,land_area
+Southern Asia,1987,640995000,land_area
+Southern Asia,1986,640995000,land_area
+Southern Asia,1985,640995000,land_area
+Southern Asia,1984,640995000,land_area
+Southern Asia,1983,640995000,land_area
+Southern Asia,1982,640995000,land_area
+Southern Asia,1981,640995000,land_area
+Southern Asia,1980,640995000,land_area
+Southern Asia,1979,640995000,land_area
+Southern Asia,1978,640995000,land_area
+Southern Asia,1977,640995000,land_area
+Southern Asia,1976,640995000,land_area
+Southern Asia,1975,640995000,land_area
+Southern Asia,1974,640995000,land_area
+Southern Asia,1973,640995000,land_area
+Southern Asia,1972,640995000,land_area
+Southern Asia,1971,640995000,land_area
+Southern Asia,1970,640995000,land_area
+Southern Asia,1969,640995000,land_area
+Southern Asia,1968,640995000,land_area
+Southern Asia,1967,640995000,land_area
+Southern Asia,1966,640995000,land_area
+Southern Asia,1965,640995000,land_area
+Southern Asia,1964,640995000,land_area
+Southern Asia,1963,640995000,land_area
+Southern Asia,1962,640995000,land_area
+Southern Asia,1961,641006000,land_area
+Southern Europe,2007,129427000,land_area
+Southern Europe,2006,129454000,land_area
+Southern Europe,2005,129453000,land_area
+Southern Europe,2004,129478000,land_area
+Southern Europe,2003,129482000,land_area
+Southern Europe,2002,129650000,land_area
+Southern Europe,2001,129598000,land_area
+Southern Europe,2000,129646000,land_area
+Southern Europe,1999,129690000,land_area
+Southern Europe,1998,129690000,land_area
+Southern Europe,1997,129690000,land_area
+Southern Europe,1996,129690000,land_area
+Southern Europe,1995,129690000,land_area
+Southern Europe,1994,129690000,land_area
+Southern Europe,1993,129690000,land_area
+Southern Europe,1992,129690000,land_area
+Southern Europe,1991,129690000,land_area
+Southern Europe,1990,129690000,land_area
+Southern Europe,1989,129690000,land_area
+Southern Europe,1988,129690000,land_area
+Southern Europe,1987,129690000,land_area
+Southern Europe,1986,129690000,land_area
+Southern Europe,1985,129690000,land_area
+Southern Europe,1984,129690000,land_area
+Southern Europe,1983,129689000,land_area
+Southern Europe,1982,129692000,land_area
+Southern Europe,1981,129692000,land_area
+Southern Europe,1980,129693000,land_area
+Southern Europe,1979,129700000,land_area
+Southern Europe,1978,129699000,land_area
+Southern Europe,1977,129700000,land_area
+Southern Europe,1976,129703000,land_area
+Southern Europe,1975,129709000,land_area
+Southern Europe,1974,129721000,land_area
+Southern Europe,1973,129724000,land_area
+Southern Europe,1972,129724000,land_area
+Southern Europe,1971,129724000,land_area
+Southern Europe,1970,129724000,land_area
+Southern Europe,1969,129724000,land_area
+Southern Europe,1968,129724000,land_area
+Southern Europe,1967,129724000,land_area
+Southern Europe,1966,129724000,land_area
+Southern Europe,1965,129724000,land_area
+Southern Europe,1964,129724000,land_area
+Southern Europe,1963,129724000,land_area
+Southern Europe,1962,129724000,land_area
+Southern Europe,1961,129724000,land_area
+Western Africa,2007,606124000,land_area
+Western Africa,2006,606124000,land_area
+Western Africa,2005,606124000,land_area
+Western Africa,2004,606124000,land_area
+Western Africa,2003,606124000,land_area
+Western Africa,2002,606124000,land_area
+Western Africa,2001,606124000,land_area
+Western Africa,2000,606124000,land_area
+Western Africa,1999,606124000,land_area
+Western Africa,1998,606124000,land_area
+Western Africa,1997,606124000,land_area
+Western Africa,1996,606124000,land_area
+Western Africa,1995,606124000,land_area
+Western Africa,1994,606124000,land_area
+Western Africa,1993,606124000,land_area
+Western Africa,1992,606124000,land_area
+Western Africa,1991,606124000,land_area
+Western Africa,1990,606124000,land_area
+Western Africa,1989,606124000,land_area
+Western Africa,1988,606124000,land_area
+Western Africa,1987,606124000,land_area
+Western Africa,1986,606124000,land_area
+Western Africa,1985,606124000,land_area
+Western Africa,1984,606124000,land_area
+Western Africa,1983,606124000,land_area
+Western Africa,1982,606124000,land_area
+Western Africa,1981,606124000,land_area
+Western Africa,1980,606124000,land_area
+Western Africa,1979,606124000,land_area
+Western Africa,1978,606124000,land_area
+Western Africa,1977,606124000,land_area
+Western Africa,1976,606124000,land_area
+Western Africa,1975,606124000,land_area
+Western Africa,1974,606124000,land_area
+Western Africa,1973,606124000,land_area
+Western Africa,1972,606124000,land_area
+Western Africa,1971,606124000,land_area
+Western Africa,1970,606124000,land_area
+Western Africa,1969,606124000,land_area
+Western Africa,1968,606124000,land_area
+Western Africa,1967,606124000,land_area
+Western Africa,1966,606124000,land_area
+Western Africa,1965,606124000,land_area
+Western Africa,1964,606124000,land_area
+Western Africa,1963,606124000,land_area
+Western Africa,1962,606124000,land_area
+Western Africa,1961,606124000,land_area
+Western Asia,2007,480719900,land_area
+Western Asia,2006,480721700,land_area
+Western Asia,2005,480717000,land_area
+Western Asia,2004,480718200,land_area
+Western Asia,2003,480718200,land_area
+Western Asia,2002,480733800,land_area
+Western Asia,2001,480732400,land_area
+Western Asia,2000,480732500,land_area
+Western Asia,1999,480742500,land_area
+Western Asia,1998,480781200,land_area
+Western Asia,1997,480793700,land_area
+Western Asia,1996,480793700,land_area
+Western Asia,1995,480191700,land_area
+Western Asia,1994,480191700,land_area
+Western Asia,1993,480191700,land_area
+Western Asia,1992,480191700,land_area
+Western Asia,1991,462099000,land_area
+Western Asia,1990,462099000,land_area
+Western Asia,1989,462099000,land_area
+Western Asia,1988,462099000,land_area
+Western Asia,1987,462099000,land_area
+Western Asia,1986,462099000,land_area
+Western Asia,1985,462099000,land_area
+Western Asia,1984,462099000,land_area
+Western Asia,1983,462099000,land_area
+Western Asia,1982,462099000,land_area
+Western Asia,1981,462099000,land_area
+Western Asia,1980,462099000,land_area
+Western Asia,1979,462099000,land_area
+Western Asia,1978,462099000,land_area
+Western Asia,1977,462099000,land_area
+Western Asia,1976,462099000,land_area
+Western Asia,1975,462099000,land_area
+Western Asia,1974,462099000,land_area
+Western Asia,1973,462099000,land_area
+Western Asia,1972,462099000,land_area
+Western Asia,1971,462099000,land_area
+Western Asia,1970,462099000,land_area
+Western Asia,1969,462099000,land_area
+Western Asia,1968,462099000,land_area
+Western Asia,1967,462099000,land_area
+Western Asia,1966,462099000,land_area
+Western Asia,1965,462099000,land_area
+Western Asia,1964,462099000,land_area
+Western Asia,1963,462099000,land_area
+Western Asia,1962,462099000,land_area
+Western Asia,1961,462099000,land_area
+Western Europe,2007,108567000,land_area
+Western Europe,2006,108567000,land_area
+Western Europe,2005,108567000,land_area
+Western Europe,2004,108568000,land_area
+Western Europe,2003,108568000,land_area
+Western Europe,2002,108568000,land_area
+Western Europe,2001,108568000,land_area
+Western Europe,2000,108568000,land_area
+Western Europe,1999,108563000,land_area
+Western Europe,1998,108563000,land_area
+Western Europe,1997,108563000,land_area
+Western Europe,1996,108563000,land_area
+Western Europe,1995,108563000,land_area
+Western Europe,1994,108563000,land_area
+Western Europe,1993,108563000,land_area
+Western Europe,1992,108563000,land_area
+Western Europe,1991,108563000,land_area
+Western Europe,1990,108563000,land_area
+Western Europe,1989,108563000,land_area
+Western Europe,1988,108563000,land_area
+Western Europe,1987,108563000,land_area
+Western Europe,1986,108563000,land_area
+Western Europe,1985,108563000,land_area
+Western Europe,1984,108563000,land_area
+Western Europe,1983,108563000,land_area
+Western Europe,1982,108563000,land_area
+Western Europe,1981,108563000,land_area
+Western Europe,1980,108563000,land_area
+Western Europe,1979,108563000,land_area
+Western Europe,1978,108563000,land_area
+Western Europe,1977,108563000,land_area
+Western Europe,1976,108563000,land_area
+Western Europe,1975,108563000,land_area
+Western Europe,1974,108563000,land_area
+Western Europe,1973,108563000,land_area
+Western Europe,1972,108563000,land_area
+Western Europe,1971,108563000,land_area
+Western Europe,1970,108563000,land_area
+Western Europe,1969,108563000,land_area
+Western Europe,1968,108563000,land_area
+Western Europe,1967,108563000,land_area
+Western Europe,1966,108563000,land_area
+Western Europe,1965,108563000,land_area
+Western Europe,1964,108563000,land_area
+Western Europe,1963,108563000,land_area
+Western Europe,1962,108563000,land_area
+Western Europe,1961,108563000,land_area
+World,2007,13009115000,land_area
+World,2006,13009151500,land_area
+World,2005,13009752200,land_area
+World,2004,13009571500,land_area
+World,2003,13009921500,land_area
+World,2002,13010146900,land_area
+World,2001,13010066900,land_area
+World,2000,13010377400,land_area
+World,1999,13012264400,land_area
+World,1998,13011583100,land_area
+World,1997,13011324600,land_area
+World,1996,13004386600,land_area
+World,1995,13003835600,land_area
+World,1994,13003948600,land_area
+World,1993,13005124900,land_area
+World,1992,13005493900,land_area
+World,1991,13049839200,land_area
+World,1990,13050008200,land_area
+World,1989,13050010200,land_area
+World,1988,13050111200,land_area
+World,1987,13050114200,land_area
+World,1986,13050125200,land_area
+World,1985,13050118200,land_area
+World,1984,13050131200,land_area
+World,1983,13050285200,land_area
+World,1982,13050294200,land_area
+World,1981,13050315200,land_area
+World,1980,13050309200,land_area
+World,1979,13050331200,land_area
+World,1978,13050336200,land_area
+World,1977,13050338200,land_area
+World,1976,13050355200,land_area
+World,1975,13050377200,land_area
+World,1974,13050433200,land_area
+World,1973,13050485200,land_area
+World,1972,13050496200,land_area
+World,1971,13050507200,land_area
+World,1970,13050508200,land_area
+World,1969,13050509200,land_area
+World,1968,13050509200,land_area
+World,1967,13050510200,land_area
+World,1966,13050511200,land_area
+World,1965,13050512200,land_area
+World,1964,13050513200,land_area
+World,1963,13050513200,land_area
+World,1962,13050512200,land_area
+World,1961,13050525200,land_area
