@@ -44,7 +44,7 @@ And the FAO definition for arable land is:
 
 > Land under temporary agricultural crops (multiple-cropped areas are counted only once), temporary meadows for mowing or pasture, land under market and kitchen gardens and land temporarily fallow (less than five years).
 
-Armed with these definitions, let's dig deeper into the data. We are going to analyze data in the time-period 1961 to 2016 provided by FAOSTAT, a freely accessible data platform.
+Armed with these definitions, let's dig deeper into the data. We are going to analyze data in the time-period 1961 to 2007 provided by FAOSTAT, a freely accessible data platform.
 
 ```{r}
 land_data = read.csv("Databases/Land_data_regions.csv")
@@ -190,7 +190,7 @@ ggplot(fsmall_ratio, aes(x = Year, y = Value)) +
   theme(plot.title = element_text(hjust=0.5))
 ```
 
-This plot throws up some differences as compared to our previous analysis. There is a noticeable decline in South America, reminding us of the deforestation in the Amazon rain forest. So it is in Western Africa. But, the Eastern Asian region shows a considerable rise in forested area. Coming to the developed regions, the forested area in North America is almost constant but that of Oceania shows a slight decline.
+This plot throws up some differences as compared to our previous analysis. There is a noticeable decline in South America, reminding us of the deforestation in the Amazon rain forest. So is the situation in Western Africa. But, the Eastern Asian region shows a considerable rise in forested area. Coming to the developed regions, the forested area in North America is almost constant but that of Oceania shows a slight decline.
 
 ## Country-wise analysis
 A regional analysis has shown us the disparity between the share of land area for both agricultural purposes and forests. It's now time to see how specific nations have fared.
@@ -265,7 +265,7 @@ ggplot(small_ratio, aes(x = Year, y = Value)) +
 ## Why a decrease in agricultural land use?
 It's interesting to take a step back and ponder the reasons for the developed countries to start using lesser land for agriculture. One reason could be that those regions have started seeing a slowing down of population growth.
 
-But Swanson^[*Endangered Earth*. Global Challenges, **6** (2019), Article 2] argues that the most important contribution to this trend has been the impact of R&D in the agricultural sector. Agricultural R&D, he argues, has been the primary contributor to the growth in yields on the production frontier over the past half-century. And, surprisingly, land use has decreased in many developed countries while overall production has multiplied.
+But Swanson^[*Endangered Earth*. Global Challenges, **6** (2019), Article 2] argues that the most important contribution to this trend has been the impact of R&D in the agricultural sector. Agricultural R&D, he argues, has been the primary contributor to the growth in yields on the production frontier over the past half-century. And, surprisingly, he asserts that land use has decreased in many developed countries while overall production has multiplied.
 
 # Analysis of agricultural production
 
@@ -402,3 +402,8 @@ Once again, we observe similar trends at the country level. India, a developing 
 In this study, we've aimed to present a picture of the food production and land use in different regions of the world. While we've been successful in explicitly bringing out a divide in the developed and developing regions on both fronts, the root cause behind this seems to be shrouded under a cloud.
 
 Nevertheless, while it's good news that some nations are able to produce more even when using fewer land area, it is advisable to replicate the techniques that have enabled such growth in the developing nations with a pinch of salt. The main reason is because each nation has been endowed with different climates, regional geographies and the like. However, it's encouraged for scientists to pursue R&D in the agricultural sector to both protect the land and ensure sufficient production.
+
+# Additional resources
+One can access the FAO Analysis app using this link: https://fao-app.shinyapps.io/fao-app/.
+
+Additionally, a YouTube video describing the app has been made here: https://youtu.be/aOW-1WXpFqY.
