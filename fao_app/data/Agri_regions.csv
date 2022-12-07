@@ -1,0 +1,1568 @@
+Region,Year,ARatio
+Africa,2007,39
+Africa,2006,39
+Africa,2005,38.9
+Africa,2004,38.6
+Africa,2003,38.4
+Africa,2002,38.3
+Africa,2001,38.1
+Africa,2000,38
+Africa,1999,37.9
+Africa,1998,37.8
+Africa,1997,37.6
+Africa,1996,37.5
+Africa,1995,37.4
+Africa,1994,37.2
+Africa,1993,37
+Africa,1992,37.5
+Africa,1991,37.3
+Africa,1990,37.2
+Africa,1989,37.1
+Africa,1988,37
+Africa,1987,36.8
+Africa,1986,36.7
+Africa,1985,36.5
+Africa,1984,36.4
+Africa,1983,36.4
+Africa,1982,36.3
+Africa,1981,36.3
+Africa,1980,36.4
+Africa,1979,36.3
+Africa,1978,36.3
+Africa,1977,36.2
+Africa,1976,36.2
+Africa,1975,36.1
+Africa,1974,36.1
+Africa,1973,36.1
+Africa,1972,36.1
+Africa,1971,36.1
+Africa,1970,35.9
+Africa,1969,35.9
+Africa,1968,35.8
+Africa,1967,35.8
+Africa,1966,35.7
+Africa,1965,35.6
+Africa,1964,35.6
+Africa,1963,35.6
+Africa,1962,35.6
+Africa,1961,35.6
+Americas,2007,30.7
+Americas,2006,30.7
+Americas,2005,30.8
+Americas,2004,30.8
+Americas,2003,30.8
+Americas,2002,30.7
+Americas,2001,30.7
+Americas,2000,30.7
+Americas,1999,30.7
+Americas,1998,30.7
+Americas,1997,30.7
+Americas,1996,30.7
+Americas,1995,30.7
+Americas,1994,30.6
+Americas,1993,30.6
+Americas,1992,30.5
+Americas,1991,30.5
+Americas,1990,30.4
+Americas,1989,30.2
+Americas,1988,30.2
+Americas,1987,30.1
+Americas,1986,30.1
+Americas,1985,30
+Americas,1984,29.9
+Americas,1983,29.8
+Americas,1982,29.8
+Americas,1981,29.6
+Americas,1980,29.5
+Americas,1979,29.4
+Americas,1978,29.4
+Americas,1977,29.4
+Americas,1976,29.3
+Americas,1975,29.2
+Americas,1974,29
+Americas,1973,28.9
+Americas,1972,28.8
+Americas,1971,28.7
+Americas,1970,28.6
+Americas,1969,28.6
+Americas,1968,28.3
+Americas,1967,28.2
+Americas,1966,28.1
+Americas,1965,28
+Americas,1964,28
+Americas,1963,27.9
+Americas,1962,27.8
+Americas,1961,27.8
+Asia,2007,53.7
+Asia,2006,53.7
+Asia,2005,53.5
+Asia,2004,54
+Asia,2003,53.8
+Asia,2002,54.2
+Asia,2001,54.4
+Asia,2000,54.2
+Asia,1999,54.1
+Asia,1998,53.6
+Asia,1997,53.5
+Asia,1996,53.5
+Asia,1995,53.6
+Asia,1994,53.8
+Asia,1993,53.7
+Asia,1992,52.2
+Asia,1991,48.9
+Asia,1990,48.9
+Asia,1989,48.7
+Asia,1988,48.2
+Asia,1987,47.5
+Asia,1986,46.8
+Asia,1985,46.1
+Asia,1984,45.1
+Asia,1983,44.6
+Asia,1982,43.8
+Asia,1981,43.5
+Asia,1980,43.1
+Asia,1979,42.9
+Asia,1978,42.6
+Asia,1977,42.4
+Asia,1976,42.1
+Asia,1975,42.5
+Asia,1974,42.3
+Asia,1973,42
+Asia,1972,41.6
+Asia,1971,41.3
+Asia,1970,41.2
+Asia,1969,41
+Asia,1968,40.8
+Asia,1967,40.6
+Asia,1966,40.5
+Asia,1965,40.3
+Asia,1964,40.1
+Asia,1963,39.9
+Asia,1962,39.8
+Asia,1961,39.6
+Australia and New Zealand,2007,55.1
+Australia and New Zealand,2006,56.2
+Australia and New Zealand,2005,57.6
+Australia and New Zealand,2004,57
+Australia and New Zealand,2003,56.9
+Australia and New Zealand,2002,57.9
+Australia and New Zealand,2001,59.3
+Australia and New Zealand,2000,59.2
+Australia and New Zealand,1999,58.9
+Australia and New Zealand,1998,60.2
+Australia and New Zealand,1997,60
+Australia and New Zealand,1996,60.4
+Australia and New Zealand,1995,60.2
+Australia and New Zealand,1994,60.9
+Australia and New Zealand,1993,59.9
+Australia and New Zealand,1992,60.6
+Australia and New Zealand,1991,60.3
+Australia and New Zealand,1990,60.5
+Australia and New Zealand,1989,60.8
+Australia and New Zealand,1988,61.5
+Australia and New Zealand,1987,61.3
+Australia and New Zealand,1986,61.3
+Australia and New Zealand,1985,61.6
+Australia and New Zealand,1984,61.6
+Australia and New Zealand,1983,61.4
+Australia and New Zealand,1982,62.2
+Australia and New Zealand,1981,62.9
+Australia and New Zealand,1980,62.9
+Australia and New Zealand,1979,62.5
+Australia and New Zealand,1978,62.1
+Australia and New Zealand,1977,62.3
+Australia and New Zealand,1976,63.5
+Australia and New Zealand,1975,63.3
+Australia and New Zealand,1974,63.4
+Australia and New Zealand,1973,63.3
+Australia and New Zealand,1972,63
+Australia and New Zealand,1971,62.8
+Australia and New Zealand,1970,62.6
+Australia and New Zealand,1969,62.2
+Australia and New Zealand,1968,61.7
+Australia and New Zealand,1967,62
+Australia and New Zealand,1966,61.6
+Australia and New Zealand,1965,61.5
+Australia and New Zealand,1964,61
+Australia and New Zealand,1963,60.7
+Australia and New Zealand,1962,60.3
+Australia and New Zealand,1961,60
+Caribbean,2007,51.4
+Caribbean,2006,51.5
+Caribbean,2005,51.6
+Caribbean,2004,51.2
+Caribbean,2003,51.7
+Caribbean,2002,51.8
+Caribbean,2001,51.9
+Caribbean,2000,51.6
+Caribbean,1999,52.2
+Caribbean,1998,52.3
+Caribbean,1997,52.5
+Caribbean,1996,52
+Caribbean,1995,52.4
+Caribbean,1994,52.5
+Caribbean,1993,52.6
+Caribbean,1992,53.1
+Caribbean,1991,52.9
+Caribbean,1990,52.9
+Caribbean,1989,53.5
+Caribbean,1988,53.6
+Caribbean,1987,53.3
+Caribbean,1986,52.1
+Caribbean,1985,51.1
+Caribbean,1984,50.8
+Caribbean,1983,50.9
+Caribbean,1982,50.6
+Caribbean,1981,50.1
+Caribbean,1980,50.1
+Caribbean,1979,49.7
+Caribbean,1978,50
+Caribbean,1977,50.3
+Caribbean,1976,50
+Caribbean,1975,48.9
+Caribbean,1974,48
+Caribbean,1973,48.9
+Caribbean,1972,47.6
+Caribbean,1971,45.9
+Caribbean,1970,45.7
+Caribbean,1969,44.5
+Caribbean,1968,44.3
+Caribbean,1967,43.8
+Caribbean,1966,43.3
+Caribbean,1965,43.4
+Caribbean,1964,44.2
+Caribbean,1963,41.1
+Caribbean,1962,39.9
+Caribbean,1961,38.8
+Central America,2007,51.5
+Central America,2006,51.4
+Central America,2005,51.8
+Central America,2004,51.9
+Central America,2003,52.1
+Central America,2002,51.7
+Central America,2001,51.7
+Central America,2000,51.6
+Central America,1999,51.6
+Central America,1998,51.6
+Central America,1997,51.5
+Central America,1996,51.5
+Central America,1995,51.5
+Central America,1994,51.1
+Central America,1993,50.8
+Central America,1992,50.4
+Central America,1991,50
+Central America,1990,49.7
+Central America,1989,49.4
+Central America,1988,49.1
+Central America,1987,48.5
+Central America,1986,48.2
+Central America,1985,47.9
+Central America,1984,47.5
+Central America,1983,47.2
+Central America,1982,47.2
+Central America,1981,47
+Central America,1980,47
+Central America,1979,46.8
+Central America,1978,46.7
+Central America,1977,46.6
+Central America,1976,46.4
+Central America,1975,46.2
+Central America,1974,46.1
+Central America,1973,46
+Central America,1972,45.8
+Central America,1971,45.7
+Central America,1970,45.6
+Central America,1969,45.6
+Central America,1968,45.6
+Central America,1967,45.6
+Central America,1966,45.6
+Central America,1965,45.6
+Central America,1964,45.5
+Central America,1963,45.5
+Central America,1962,45.5
+Central America,1961,45.5
+Central Asia,2007,71.9
+Central Asia,2006,72
+Central Asia,2005,72
+Central Asia,2004,72
+Central Asia,2003,72
+Central Asia,2002,72
+Central Asia,2001,71.9
+Central Asia,2000,71.8
+Central Asia,1999,71.3
+Central Asia,1998,71.9
+Central Asia,1997,72.6
+Central Asia,1996,73
+Central Asia,1995,73.7
+Central Asia,1994,75.5
+Central Asia,1993,75.5
+Central Asia,1992,75.4
+Eastern Africa,2007,50
+Eastern Africa,2006,50
+Eastern Africa,2005,49.9
+Eastern Africa,2004,49.8
+Eastern Africa,2003,49.4
+Eastern Africa,2002,49
+Eastern Africa,2001,48.9
+Eastern Africa,2000,48.6
+Eastern Africa,1999,48.4
+Eastern Africa,1998,48
+Eastern Africa,1997,47.7
+Eastern Africa,1996,47.5
+Eastern Africa,1995,47.5
+Eastern Africa,1994,47.3
+Eastern Africa,1993,47.3
+Eastern Africa,1992,50.3
+Eastern Africa,1991,50.2
+Eastern Africa,1990,50.1
+Eastern Africa,1989,50.1
+Eastern Africa,1988,50
+Eastern Africa,1987,50
+Eastern Africa,1986,50
+Eastern Africa,1985,49.9
+Eastern Africa,1984,49.6
+Eastern Africa,1983,49.6
+Eastern Africa,1982,49.6
+Eastern Africa,1981,49.5
+Eastern Africa,1980,49.5
+Eastern Africa,1979,49.5
+Eastern Africa,1978,49.5
+Eastern Africa,1977,49.3
+Eastern Africa,1976,49.2
+Eastern Africa,1975,49.2
+Eastern Africa,1974,49
+Eastern Africa,1973,49
+Eastern Africa,1972,48.9
+Eastern Africa,1971,48.9
+Eastern Africa,1970,48.4
+Eastern Africa,1969,48.2
+Eastern Africa,1968,48.1
+Eastern Africa,1967,48
+Eastern Africa,1966,47.9
+Eastern Africa,1965,47.6
+Eastern Africa,1964,47.4
+Eastern Africa,1963,47.3
+Eastern Africa,1962,47
+Eastern Africa,1961,46.9
+Eastern Asia,2007,59.2
+Eastern Asia,2006,59
+Eastern Asia,2005,58.6
+Eastern Asia,2004,58.3
+Eastern Asia,2003,58.2
+Eastern Asia,2002,59.5
+Eastern Asia,2001,59.6
+Eastern Asia,2000,59.7
+Eastern Asia,1999,59.8
+Eastern Asia,1998,58.1
+Eastern Asia,1997,57.9
+Eastern Asia,1996,57.9
+Eastern Asia,1995,57.9
+Eastern Asia,1994,57.8
+Eastern Asia,1993,57.8
+Eastern Asia,1992,58.1
+Eastern Asia,1991,58.3
+Eastern Asia,1990,58.2
+Eastern Asia,1989,58.2
+Eastern Asia,1988,57.4
+Eastern Asia,1987,56.6
+Eastern Asia,1986,55.8
+Eastern Asia,1985,55
+Eastern Asia,1984,53.6
+Eastern Asia,1983,52.9
+Eastern Asia,1982,51
+Eastern Asia,1981,50.3
+Eastern Asia,1980,49.7
+Eastern Asia,1979,49
+Eastern Asia,1978,48.5
+Eastern Asia,1977,48
+Eastern Asia,1976,47.4
+Eastern Asia,1975,48.3
+Eastern Asia,1974,47.9
+Eastern Asia,1973,47.3
+Eastern Asia,1972,46.8
+Eastern Asia,1971,46.4
+Eastern Asia,1970,46
+Eastern Asia,1969,45.6
+Eastern Asia,1968,45.2
+Eastern Asia,1967,44.9
+Eastern Asia,1966,44.6
+Eastern Asia,1965,44.3
+Eastern Asia,1964,44
+Eastern Asia,1963,43.7
+Eastern Asia,1962,43.5
+Eastern Asia,1961,43.2
+Eastern Europe,2007,17.5
+Eastern Europe,2006,17.5
+Eastern Europe,2005,17.5
+Eastern Europe,2004,17.5
+Eastern Europe,2003,17.6
+Eastern Europe,2002,17.7
+Eastern Europe,2001,17.7
+Eastern Europe,2000,17.8
+Eastern Europe,1999,17.8
+Eastern Europe,1998,17.9
+Eastern Europe,1997,18
+Eastern Europe,1996,17.8
+Eastern Europe,1995,17.9
+Eastern Europe,1994,17.9
+Eastern Europe,1993,18
+Eastern Europe,1992,18.2
+Eastern Europe,1991,26.7
+Eastern Europe,1990,26.7
+Eastern Europe,1989,26.8
+Eastern Europe,1988,26.8
+Eastern Europe,1987,26.8
+Eastern Europe,1986,26.9
+Eastern Europe,1985,26.8
+Eastern Europe,1984,26.8
+Eastern Europe,1983,26.8
+Eastern Europe,1982,26.8
+Eastern Europe,1981,26.6
+Eastern Europe,1980,26.6
+Eastern Europe,1979,26.6
+Eastern Europe,1978,26.6
+Eastern Europe,1977,26.7
+Eastern Europe,1976,26.6
+Eastern Europe,1975,26.5
+Eastern Europe,1974,26.6
+Eastern Europe,1973,26.6
+Eastern Europe,1972,26.5
+Eastern Europe,1971,26.4
+Eastern Europe,1970,26.4
+Eastern Europe,1969,26.5
+Eastern Europe,1968,26.4
+Eastern Europe,1967,26.3
+Eastern Europe,1966,26.3
+Eastern Europe,1965,26.3
+Eastern Europe,1964,26.2
+Eastern Europe,1963,26.2
+Eastern Europe,1962,26.3
+Eastern Europe,1961,26.2
+Europe,2007,21.5
+Europe,2006,21.6
+Europe,2005,21.6
+Europe,2004,21.6
+Europe,2003,21.7
+Europe,2002,21.8
+Europe,2001,21.9
+Europe,2000,22
+Europe,1999,22.1
+Europe,1998,22.2
+Europe,1997,22.2
+Europe,1996,22.2
+Europe,1995,22.2
+Europe,1994,22.3
+Europe,1993,22.4
+Europe,1992,22.6
+Europe,1991,29.1
+Europe,1990,29.2
+Europe,1989,29.3
+Europe,1988,29.3
+Europe,1987,29.3
+Europe,1986,29.4
+Europe,1985,29.4
+Europe,1984,29.3
+Europe,1983,29.4
+Europe,1982,29.4
+Europe,1981,29.3
+Europe,1980,29.3
+Europe,1979,29.3
+Europe,1978,29.3
+Europe,1977,29.4
+Europe,1976,29.3
+Europe,1975,29.3
+Europe,1974,29.4
+Europe,1973,29.4
+Europe,1972,29.3
+Europe,1971,29.3
+Europe,1970,29.4
+Europe,1969,29.5
+Europe,1968,29.4
+Europe,1967,29.4
+Europe,1966,29.3
+Europe,1965,29.4
+Europe,1964,29.3
+Europe,1963,29.4
+Europe,1962,29.4
+Europe,1961,29.4
+European Union,2007,45.5
+European Union,2006,45.8
+European Union,2005,45.9
+European Union,2004,46
+European Union,2003,46.2
+European Union,2002,46.6
+European Union,2001,47
+European Union,2000,47.5
+European Union,1999,47.9
+European Union,1998,48
+European Union,1997,48.2
+European Union,1996,48.3
+European Union,1995,48.2
+European Union,1994,48.7
+European Union,1993,48.8
+European Union,1992,48.9
+European Union,1991,49.5
+European Union,1990,50.3
+European Union,1989,50.5
+European Union,1988,50.6
+European Union,1987,50.7
+European Union,1986,50.8
+European Union,1985,50.9
+European Union,1984,51
+European Union,1983,51.1
+European Union,1982,51.4
+European Union,1981,51.4
+European Union,1980,51.6
+European Union,1979,51.7
+European Union,1978,51.9
+European Union,1977,51.9
+European Union,1976,52
+European Union,1975,52.2
+European Union,1974,52.3
+European Union,1973,52.4
+European Union,1972,52.6
+European Union,1971,52.7
+European Union,1970,53.3
+European Union,1969,53.8
+European Union,1968,53.8
+European Union,1967,54
+European Union,1966,54.1
+European Union,1965,54.2
+European Union,1964,54.4
+European Union,1963,54.6
+European Union,1962,54.7
+European Union,1961,54.8
+LandLocked developing countries,2007,49.5
+LandLocked developing countries,2006,49.4
+LandLocked developing countries,2005,49.2
+LandLocked developing countries,2004,48.8
+LandLocked developing countries,2003,48.7
+LandLocked developing countries,2002,49.5
+LandLocked developing countries,2001,49.5
+LandLocked developing countries,2000,49.2
+LandLocked developing countries,1999,49
+LandLocked developing countries,1998,48.3
+LandLocked developing countries,1997,48.3
+LandLocked developing countries,1996,48.3
+LandLocked developing countries,1995,48.2
+LandLocked developing countries,1994,48.5
+LandLocked developing countries,1993,48.4
+LandLocked developing countries,1992,49.8
+LandLocked developing countries,1991,40.5
+LandLocked developing countries,1990,40.3
+LandLocked developing countries,1989,40.1
+LandLocked developing countries,1988,40
+LandLocked developing countries,1987,39.9
+LandLocked developing countries,1986,39.8
+LandLocked developing countries,1985,39.6
+LandLocked developing countries,1984,39.5
+LandLocked developing countries,1983,39.4
+LandLocked developing countries,1982,39.2
+LandLocked developing countries,1981,39.1
+LandLocked developing countries,1980,39
+LandLocked developing countries,1979,38.9
+LandLocked developing countries,1978,38.9
+LandLocked developing countries,1977,38.9
+LandLocked developing countries,1976,38.8
+LandLocked developing countries,1975,40.1
+LandLocked developing countries,1974,40
+LandLocked developing countries,1973,40
+LandLocked developing countries,1972,39.9
+LandLocked developing countries,1971,39.8
+LandLocked developing countries,1970,39.7
+LandLocked developing countries,1969,39.8
+LandLocked developing countries,1968,39.7
+LandLocked developing countries,1967,39.6
+LandLocked developing countries,1966,39.6
+LandLocked developing countries,1965,39.5
+LandLocked developing countries,1964,39.5
+LandLocked developing countries,1963,39.4
+LandLocked developing countries,1962,39.3
+LandLocked developing countries,1961,39.3
+Least Developed Countries,2007,39.9
+Least Developed Countries,2006,39.8
+Least Developed Countries,2005,39.7
+Least Developed Countries,2004,39.3
+Least Developed Countries,2003,39.2
+Least Developed Countries,2002,38.9
+Least Developed Countries,2001,38.9
+Least Developed Countries,2000,38.6
+Least Developed Countries,1999,38.5
+Least Developed Countries,1998,38.4
+Least Developed Countries,1997,38.2
+Least Developed Countries,1996,38
+Least Developed Countries,1995,37.8
+Least Developed Countries,1994,37.6
+Least Developed Countries,1993,37.4
+Least Developed Countries,1992,38.1
+Least Developed Countries,1991,38
+Least Developed Countries,1990,38
+Least Developed Countries,1989,37.8
+Least Developed Countries,1988,37.7
+Least Developed Countries,1987,37.5
+Least Developed Countries,1986,37.4
+Least Developed Countries,1985,37.2
+Least Developed Countries,1984,37
+Least Developed Countries,1983,37
+Least Developed Countries,1982,36.9
+Least Developed Countries,1981,36.9
+Least Developed Countries,1980,36.9
+Least Developed Countries,1979,36.9
+Least Developed Countries,1978,36.8
+Least Developed Countries,1977,36.8
+Least Developed Countries,1976,36.7
+Least Developed Countries,1975,36.7
+Least Developed Countries,1974,36.7
+Least Developed Countries,1973,36.7
+Least Developed Countries,1972,36.7
+Least Developed Countries,1971,36.6
+Least Developed Countries,1970,36.5
+Least Developed Countries,1969,36.5
+Least Developed Countries,1968,36.5
+Least Developed Countries,1967,36.4
+Least Developed Countries,1966,36.4
+Least Developed Countries,1965,36.2
+Least Developed Countries,1964,36.2
+Least Developed Countries,1963,36.1
+Least Developed Countries,1962,36
+Least Developed Countries,1961,36
+Low Income Food Deficit Countries,2007,47
+Low Income Food Deficit Countries,2006,46.9
+Low Income Food Deficit Countries,2005,46.8
+Low Income Food Deficit Countries,2004,46.5
+Low Income Food Deficit Countries,2003,46.4
+Low Income Food Deficit Countries,2002,46.5
+Low Income Food Deficit Countries,2001,46.6
+Low Income Food Deficit Countries,2000,46.4
+Low Income Food Deficit Countries,1999,46.3
+Low Income Food Deficit Countries,1998,45.8
+Low Income Food Deficit Countries,1997,45.6
+Low Income Food Deficit Countries,1996,45.5
+Low Income Food Deficit Countries,1995,45.4
+Low Income Food Deficit Countries,1994,45.3
+Low Income Food Deficit Countries,1993,45.1
+Low Income Food Deficit Countries,1992,45.5
+Low Income Food Deficit Countries,1991,45
+Low Income Food Deficit Countries,1990,45
+Low Income Food Deficit Countries,1989,44.9
+Low Income Food Deficit Countries,1988,44.6
+Low Income Food Deficit Countries,1987,44.3
+Low Income Food Deficit Countries,1986,43.9
+Low Income Food Deficit Countries,1985,43.5
+Low Income Food Deficit Countries,1984,43
+Low Income Food Deficit Countries,1983,42.8
+Low Income Food Deficit Countries,1982,42.2
+Low Income Food Deficit Countries,1981,42
+Low Income Food Deficit Countries,1980,41.8
+Low Income Food Deficit Countries,1979,41.6
+Low Income Food Deficit Countries,1978,41.4
+Low Income Food Deficit Countries,1977,41.2
+Low Income Food Deficit Countries,1976,41
+Low Income Food Deficit Countries,1975,41.2
+Low Income Food Deficit Countries,1974,41
+Low Income Food Deficit Countries,1973,40.8
+Low Income Food Deficit Countries,1972,40.6
+Low Income Food Deficit Countries,1971,40.5
+Low Income Food Deficit Countries,1970,40.3
+Low Income Food Deficit Countries,1969,40.2
+Low Income Food Deficit Countries,1968,40
+Low Income Food Deficit Countries,1967,39.9
+Low Income Food Deficit Countries,1966,39.8
+Low Income Food Deficit Countries,1965,39.6
+Low Income Food Deficit Countries,1964,39.5
+Low Income Food Deficit Countries,1963,39.3
+Low Income Food Deficit Countries,1962,39.2
+Low Income Food Deficit Countries,1961,39
+Melanesia,2007,3.7
+Melanesia,2006,3.7
+Melanesia,2005,3.7
+Melanesia,2004,3.6
+Melanesia,2003,3.6
+Melanesia,2002,3.6
+Melanesia,2001,3.6
+Melanesia,2000,3.6
+Melanesia,1999,3.6
+Melanesia,1998,3.5
+Melanesia,1997,3.5
+Melanesia,1996,3.5
+Melanesia,1995,3.4
+Melanesia,1994,3.4
+Melanesia,1993,3.3
+Melanesia,1992,3.3
+Melanesia,1991,3.3
+Melanesia,1990,3.3
+Melanesia,1989,3.2
+Melanesia,1988,3.2
+Melanesia,1987,3.2
+Melanesia,1986,3.1
+Melanesia,1985,3.1
+Melanesia,1984,3
+Melanesia,1983,3
+Melanesia,1982,2.9
+Melanesia,1981,2.9
+Melanesia,1980,2.9
+Melanesia,1979,2.8
+Melanesia,1978,2.8
+Melanesia,1977,2.7
+Melanesia,1976,2.7
+Melanesia,1975,2.7
+Melanesia,1974,2.6
+Melanesia,1973,2.6
+Melanesia,1972,2.5
+Melanesia,1971,2.5
+Melanesia,1970,2.5
+Melanesia,1969,2.4
+Melanesia,1968,2.3
+Melanesia,1967,2.3
+Melanesia,1966,2.2
+Melanesia,1965,2.2
+Melanesia,1964,2.2
+Melanesia,1963,2.2
+Melanesia,1962,2.2
+Melanesia,1961,2.2
+Micronesia,2007,32.3
+Micronesia,2006,32.6
+Micronesia,2005,32.6
+Micronesia,2004,32.6
+Micronesia,2003,32.3
+Micronesia,2002,32.3
+Micronesia,2001,32.3
+Micronesia,2000,32.3
+Micronesia,1999,32.3
+Micronesia,1998,32.3
+Micronesia,1997,33
+Micronesia,1996,33
+Micronesia,1995,33
+Micronesia,1994,41.6
+Micronesia,1993,41.6
+Micronesia,1992,43.1
+Micronesia,1991,43.1
+Micronesia,1990,34.1
+Micronesia,1989,34.1
+Micronesia,1988,34.1
+Micronesia,1987,34.1
+Micronesia,1986,34.1
+Micronesia,1985,34.1
+Micronesia,1984,34.4
+Micronesia,1983,34.1
+Micronesia,1982,34.1
+Micronesia,1981,34.4
+Micronesia,1980,33.8
+Micronesia,1979,34.4
+Micronesia,1978,34.4
+Micronesia,1977,33.8
+Micronesia,1976,33.8
+Micronesia,1975,33.8
+Micronesia,1974,33.4
+Micronesia,1973,33.8
+Micronesia,1972,33.8
+Micronesia,1971,33.8
+Micronesia,1970,34.1
+Micronesia,1969,33.8
+Micronesia,1968,33.8
+Micronesia,1967,33.8
+Micronesia,1966,35.3
+Micronesia,1965,35.3
+Micronesia,1964,35.3
+Micronesia,1963,35.3
+Micronesia,1962,33.8
+Micronesia,1961,34.4
+Middle Africa,2007,24.6
+Middle Africa,2006,24.6
+Middle Africa,2005,24.6
+Middle Africa,2004,24.6
+Middle Africa,2003,24.6
+Middle Africa,2002,24.5
+Middle Africa,2001,24.5
+Middle Africa,2000,24.5
+Middle Africa,1999,24.5
+Middle Africa,1998,24.5
+Middle Africa,1997,24.5
+Middle Africa,1996,24.5
+Middle Africa,1995,24.5
+Middle Africa,1994,24.5
+Middle Africa,1993,24.5
+Middle Africa,1992,24.5
+Middle Africa,1991,24.5
+Middle Africa,1990,24.4
+Middle Africa,1989,24.4
+Middle Africa,1988,24.4
+Middle Africa,1987,24.4
+Middle Africa,1986,24.4
+Middle Africa,1985,24.4
+Middle Africa,1984,24.4
+Middle Africa,1983,24.4
+Middle Africa,1982,24.4
+Middle Africa,1981,24.3
+Middle Africa,1980,24.3
+Middle Africa,1979,24.3
+Middle Africa,1978,24.3
+Middle Africa,1977,24.3
+Middle Africa,1976,24.2
+Middle Africa,1975,24.2
+Middle Africa,1974,24.2
+Middle Africa,1973,24.1
+Middle Africa,1972,24.1
+Middle Africa,1971,24.1
+Middle Africa,1970,24.1
+Middle Africa,1969,24.1
+Middle Africa,1968,24.1
+Middle Africa,1967,24
+Middle Africa,1966,24
+Middle Africa,1965,24
+Middle Africa,1964,24
+Middle Africa,1963,24
+Middle Africa,1962,23.9
+Middle Africa,1961,23.9
+Net Food Importing Developing Countries,2007,39.9
+Net Food Importing Developing Countries,2006,39.9
+Net Food Importing Developing Countries,2005,39.8
+Net Food Importing Developing Countries,2004,39.5
+Net Food Importing Developing Countries,2003,39.4
+Net Food Importing Developing Countries,2002,39.7
+Net Food Importing Developing Countries,2001,39.9
+Net Food Importing Developing Countries,2000,39.5
+Net Food Importing Developing Countries,1999,39.5
+Net Food Importing Developing Countries,1998,38.9
+Net Food Importing Developing Countries,1997,38.8
+Net Food Importing Developing Countries,1996,38.7
+Net Food Importing Developing Countries,1995,38.6
+Net Food Importing Developing Countries,1994,38.4
+Net Food Importing Developing Countries,1993,38.3
+Net Food Importing Developing Countries,1992,38.9
+Net Food Importing Developing Countries,1991,38.9
+Net Food Importing Developing Countries,1990,38.8
+Net Food Importing Developing Countries,1989,38.6
+Net Food Importing Developing Countries,1988,38.5
+Net Food Importing Developing Countries,1987,38.3
+Net Food Importing Developing Countries,1986,38.2
+Net Food Importing Developing Countries,1985,38
+Net Food Importing Developing Countries,1984,37.9
+Net Food Importing Developing Countries,1983,37.9
+Net Food Importing Developing Countries,1982,37.8
+Net Food Importing Developing Countries,1981,37.7
+Net Food Importing Developing Countries,1980,37.7
+Net Food Importing Developing Countries,1979,37.7
+Net Food Importing Developing Countries,1978,37.7
+Net Food Importing Developing Countries,1977,37.6
+Net Food Importing Developing Countries,1976,37.5
+Net Food Importing Developing Countries,1975,38
+Net Food Importing Developing Countries,1974,37.9
+Net Food Importing Developing Countries,1973,37.9
+Net Food Importing Developing Countries,1972,37.9
+Net Food Importing Developing Countries,1971,37.8
+Net Food Importing Developing Countries,1970,37.7
+Net Food Importing Developing Countries,1969,37.7
+Net Food Importing Developing Countries,1968,37.7
+Net Food Importing Developing Countries,1967,37.6
+Net Food Importing Developing Countries,1966,37.6
+Net Food Importing Developing Countries,1965,37.4
+Net Food Importing Developing Countries,1964,37.4
+Net Food Importing Developing Countries,1963,37.2
+Net Food Importing Developing Countries,1962,37.1
+Net Food Importing Developing Countries,1961,37
+Northern Africa,2007,28.9
+Northern Africa,2006,28.8
+Northern Africa,2005,28.9
+Northern Africa,2004,28.7
+Northern Africa,2003,28.6
+Northern Africa,2002,28.4
+Northern Africa,2001,28.3
+Northern Africa,2000,28.3
+Northern Africa,1999,28.3
+Northern Africa,1998,28.4
+Northern Africa,1997,28.2
+Northern Africa,1996,28.1
+Northern Africa,1995,27.9
+Northern Africa,1994,27.7
+Northern Africa,1993,27.4
+Northern Africa,1992,27
+Northern Africa,1991,26.8
+Northern Africa,1990,26.7
+Northern Africa,1989,26.7
+Northern Africa,1988,26.4
+Northern Africa,1987,26
+Northern Africa,1986,25.7
+Northern Africa,1985,25.4
+Northern Africa,1984,25.2
+Northern Africa,1983,25.2
+Northern Africa,1982,25.1
+Northern Africa,1981,25.1
+Northern Africa,1980,25.6
+Northern Africa,1979,25.5
+Northern Africa,1978,25.5
+Northern Africa,1977,25.4
+Northern Africa,1976,25.4
+Northern Africa,1975,25.3
+Northern Africa,1974,25.3
+Northern Africa,1973,25.2
+Northern Africa,1972,25.3
+Northern Africa,1971,25.3
+Northern Africa,1970,25
+Northern Africa,1969,24.9
+Northern Africa,1968,24.8
+Northern Africa,1967,24.8
+Northern Africa,1966,24.7
+Northern Africa,1965,24.6
+Northern Africa,1964,24.5
+Northern Africa,1963,24.5
+Northern Africa,1962,24.5
+Northern Africa,1961,24.5
+Northern America,2007,25.7
+Northern America,2006,25.7
+Northern America,2005,25.8
+Northern America,2004,25.8
+Northern America,2003,26
+Northern America,2002,25.9
+Northern America,2001,25.9
+Northern America,2000,25.8
+Northern America,1999,25.8
+Northern America,1998,25.9
+Northern America,1997,25.9
+Northern America,1996,26.1
+Northern America,1995,26.3
+Northern America,1994,26.3
+Northern America,1993,26.4
+Northern America,1992,26.5
+Northern America,1991,26.6
+Northern America,1990,26.6
+Northern America,1989,26.6
+Northern America,1988,26.6
+Northern America,1987,26.6
+Northern America,1986,26.9
+Northern America,1985,26.8
+Northern America,1984,26.8
+Northern America,1983,26.8
+Northern America,1982,26.8
+Northern America,1981,26.6
+Northern America,1980,26.6
+Northern America,1979,26.6
+Northern America,1978,26.7
+Northern America,1977,26.8
+Northern America,1976,26.8
+Northern America,1975,26.8
+Northern America,1974,26.8
+Northern America,1973,26.9
+Northern America,1972,27
+Northern America,1971,27
+Northern America,1970,27.1
+Northern America,1969,27.2
+Northern America,1968,27.2
+Northern America,1967,27.2
+Northern America,1966,27.2
+Northern America,1965,27.2
+Northern America,1964,27.4
+Northern America,1963,27.5
+Northern America,1962,27.7
+Northern America,1961,27.8
+Northern Europe,2007,23.6
+Northern Europe,2006,23.8
+Northern Europe,2005,23.3
+Northern Europe,2004,23
+Northern Europe,2003,23
+Northern Europe,2002,23.1
+Northern Europe,2001,23.2
+Northern Europe,2000,23.6
+Northern Europe,1999,23.9
+Northern Europe,1998,24.2
+Northern Europe,1997,24.2
+Northern Europe,1996,24.3
+Northern Europe,1995,24.2
+Northern Europe,1994,24.6
+Northern Europe,1993,24.9
+Northern Europe,1992,25.3
+Northern Europe,1991,23.4
+Northern Europe,1990,24.2
+Northern Europe,1989,24.3
+Northern Europe,1988,24.4
+Northern Europe,1987,24.2
+Northern Europe,1986,24.3
+Northern Europe,1985,24.3
+Northern Europe,1984,24.5
+Northern Europe,1983,24.5
+Northern Europe,1982,24.6
+Northern Europe,1981,24.7
+Northern Europe,1980,24.8
+Northern Europe,1979,24.8
+Northern Europe,1978,24.9
+Northern Europe,1977,24.9
+Northern Europe,1976,24.9
+Northern Europe,1975,25
+Northern Europe,1974,25
+Northern Europe,1973,25.1
+Northern Europe,1972,25.1
+Northern Europe,1971,25.2
+Northern Europe,1970,25.3
+Northern Europe,1969,25.7
+Northern Europe,1968,25.7
+Northern Europe,1967,25.9
+Northern Europe,1966,25.9
+Northern Europe,1965,25.9
+Northern Europe,1964,26.1
+Northern Europe,1963,26.2
+Northern Europe,1962,26.4
+Northern Europe,1961,26.4
+Oceania,2007,51.8
+Oceania,2006,52.9
+Oceania,2005,54.2
+Oceania,2004,53.6
+Oceania,2003,53.5
+Oceania,2002,54.4
+Oceania,2001,55.7
+Oceania,2000,55.7
+Oceania,1999,55.4
+Oceania,1998,56.6
+Oceania,1997,56.4
+Oceania,1996,56.8
+Oceania,1995,56.6
+Oceania,1994,57.3
+Oceania,1993,56.3
+Oceania,1992,57
+Oceania,1991,56.7
+Oceania,1990,56.8
+Oceania,1989,57.2
+Oceania,1988,57.8
+Oceania,1987,57.6
+Oceania,1986,57.6
+Oceania,1985,57.9
+Oceania,1984,57.9
+Oceania,1983,57.7
+Oceania,1982,58.5
+Oceania,1981,59.1
+Oceania,1980,59.1
+Oceania,1979,58.8
+Oceania,1978,58.3
+Oceania,1977,58.5
+Oceania,1976,59.6
+Oceania,1975,59.5
+Oceania,1974,59.5
+Oceania,1973,59.4
+Oceania,1972,59.1
+Oceania,1971,59
+Oceania,1970,58.8
+Oceania,1969,58.4
+Oceania,1968,58
+Oceania,1967,58.2
+Oceania,1966,57.9
+Oceania,1965,57.7
+Oceania,1964,57.3
+Oceania,1963,57
+Oceania,1962,56.6
+Oceania,1961,56.4
+Polynesia,2007,22.9
+Polynesia,2006,22.7
+Polynesia,2005,22.7
+Polynesia,2004,22.7
+Polynesia,2003,22.9
+Polynesia,2002,23
+Polynesia,2001,22.7
+Polynesia,2000,22.7
+Polynesia,1999,23
+Polynesia,1998,23.7
+Polynesia,1997,23.8
+Polynesia,1996,23.8
+Polynesia,1995,23.6
+Polynesia,1994,23.4
+Polynesia,1993,23.4
+Polynesia,1992,23.4
+Polynesia,1991,24.3
+Polynesia,1990,24.3
+Polynesia,1989,24.3
+Polynesia,1988,25.1
+Polynesia,1987,25.1
+Polynesia,1986,25.2
+Polynesia,1985,25.1
+Polynesia,1984,25.1
+Polynesia,1983,25.1
+Polynesia,1982,25.2
+Polynesia,1981,25.2
+Polynesia,1980,25.2
+Polynesia,1979,24.9
+Polynesia,1978,24.8
+Polynesia,1977,24.7
+Polynesia,1976,24.7
+Polynesia,1975,24.7
+Polynesia,1974,24.7
+Polynesia,1973,24.2
+Polynesia,1972,24.1
+Polynesia,1971,23.8
+Polynesia,1970,23.7
+Polynesia,1969,23.7
+Polynesia,1968,23.4
+Polynesia,1967,23.1
+Polynesia,1966,23.1
+Polynesia,1965,22.9
+Polynesia,1964,22.7
+Polynesia,1963,22.6
+Polynesia,1962,22.5
+Polynesia,1961,22.2
+Small Island Developing States,2007,15.3
+Small Island Developing States,2006,15.3
+Small Island Developing States,2005,15.3
+Small Island Developing States,2004,15.3
+Small Island Developing States,2003,15.3
+Small Island Developing States,2002,15.3
+Small Island Developing States,2001,15.4
+Small Island Developing States,2000,15.3
+Small Island Developing States,1999,15.4
+Small Island Developing States,1998,15.4
+Small Island Developing States,1997,15.4
+Small Island Developing States,1996,15.2
+Small Island Developing States,1995,15.3
+Small Island Developing States,1994,15.2
+Small Island Developing States,1993,15.2
+Small Island Developing States,1992,15.3
+Small Island Developing States,1991,15.2
+Small Island Developing States,1990,15.2
+Small Island Developing States,1989,15.3
+Small Island Developing States,1988,15.3
+Small Island Developing States,1987,15.2
+Small Island Developing States,1986,14.9
+Small Island Developing States,1985,14.7
+Small Island Developing States,1984,14.6
+Small Island Developing States,1983,14.5
+Small Island Developing States,1982,14.4
+Small Island Developing States,1981,14.3
+Small Island Developing States,1980,14.3
+Small Island Developing States,1979,14.2
+Small Island Developing States,1978,14.2
+Small Island Developing States,1977,14.1
+Small Island Developing States,1976,13.9
+Small Island Developing States,1975,13.6
+Small Island Developing States,1974,13.4
+Small Island Developing States,1973,13.6
+Small Island Developing States,1972,13.3
+Small Island Developing States,1971,13
+Small Island Developing States,1970,12.9
+Small Island Developing States,1969,12.6
+Small Island Developing States,1968,12.5
+Small Island Developing States,1967,12.4
+Small Island Developing States,1966,12.3
+Small Island Developing States,1965,12.3
+Small Island Developing States,1964,12.4
+Small Island Developing States,1963,11.8
+Small Island Developing States,1962,11.6
+Small Island Developing States,1961,11.4
+South America,2007,33
+South America,2006,32.9
+South America,2005,32.9
+South America,2004,32.8
+South America,2003,32.6
+South America,2002,32.6
+South America,2001,32.7
+South America,2000,32.7
+South America,1999,32.7
+South America,1998,32.6
+South America,1997,32.6
+South America,1996,32.5
+South America,1995,32.3
+South America,1994,31.9
+South America,1993,31.9
+South America,1992,31.7
+South America,1991,31.6
+South America,1990,31.4
+South America,1989,31.1
+South America,1988,31
+South America,1987,30.9
+South America,1986,30.8
+South America,1985,30.5
+South America,1984,30.4
+South America,1983,30.3
+South America,1982,30.2
+South America,1981,30
+South America,1980,29.9
+South America,1979,29.7
+South America,1978,29.5
+South America,1977,29.4
+South America,1976,29.2
+South America,1975,29
+South America,1974,28.7
+South America,1973,28.4
+South America,1972,28.2
+South America,1971,28
+South America,1970,27.6
+South America,1969,27.4
+South America,1968,26.9
+South America,1967,26.6
+South America,1966,26.4
+South America,1965,26.1
+South America,1964,25.9
+South America,1963,25.6
+South America,1962,25.4
+South America,1961,25.1
+South-Eastern Asia,2007,27.1
+South-Eastern Asia,2006,27
+South-Eastern Asia,2005,26.8
+South-Eastern Asia,2004,27
+South-Eastern Asia,2003,26.2
+South-Eastern Asia,2002,25.5
+South-Eastern Asia,2001,25.5
+South-Eastern Asia,2000,25.4
+South-Eastern Asia,1999,25.1
+South-Eastern Asia,1998,24.7
+South-Eastern Asia,1997,24.6
+South-Eastern Asia,1996,24.5
+South-Eastern Asia,1995,24.4
+South-Eastern Asia,1994,24.4
+South-Eastern Asia,1993,24.4
+South-Eastern Asia,1992,24.2
+South-Eastern Asia,1991,24.2
+South-Eastern Asia,1990,24.9
+South-Eastern Asia,1989,24.6
+South-Eastern Asia,1988,24.4
+South-Eastern Asia,1987,24.1
+South-Eastern Asia,1986,23.3
+South-Eastern Asia,1985,22.8
+South-Eastern Asia,1984,21.9
+South-Eastern Asia,1983,22.1
+South-Eastern Asia,1982,22
+South-Eastern Asia,1981,21.8
+South-Eastern Asia,1980,21.7
+South-Eastern Asia,1979,21.5
+South-Eastern Asia,1978,21.4
+South-Eastern Asia,1977,21.3
+South-Eastern Asia,1976,21.1
+South-Eastern Asia,1975,20.8
+South-Eastern Asia,1974,20.7
+South-Eastern Asia,1973,20.4
+South-Eastern Asia,1972,20.3
+South-Eastern Asia,1971,20
+South-Eastern Asia,1970,20.2
+South-Eastern Asia,1969,20.1
+South-Eastern Asia,1968,20.1
+South-Eastern Asia,1967,20
+South-Eastern Asia,1966,19.9
+South-Eastern Asia,1965,19.8
+South-Eastern Asia,1964,19.7
+South-Eastern Asia,1963,19.6
+South-Eastern Asia,1962,19.5
+South-Eastern Asia,1961,19.3
+Southern Africa,2007,63.2
+Southern Africa,2006,63.2
+Southern Africa,2005,63.3
+Southern Africa,2004,63.3
+Southern Africa,2003,63.3
+Southern Africa,2002,63.3
+Southern Africa,2001,63.3
+Southern Africa,2000,63.4
+Southern Africa,1999,63.3
+Southern Africa,1998,63.3
+Southern Africa,1997,63.4
+Southern Africa,1996,63.4
+Southern Africa,1995,63.3
+Southern Africa,1994,63.1
+Southern Africa,1993,62.9
+Southern Africa,1992,62.6
+Southern Africa,1991,62.4
+Southern Africa,1990,62.2
+Southern Africa,1989,62
+Southern Africa,1988,61.8
+Southern Africa,1987,61.7
+Southern Africa,1986,61.5
+Southern Africa,1985,61.4
+Southern Africa,1984,61.4
+Southern Africa,1983,61.4
+Southern Africa,1982,61.4
+Southern Africa,1981,61.4
+Southern Africa,1980,61.4
+Southern Africa,1979,61.5
+Southern Africa,1978,61.5
+Southern Africa,1977,61.5
+Southern Africa,1976,61.6
+Southern Africa,1975,61.6
+Southern Africa,1974,61.8
+Southern Africa,1973,61.9
+Southern Africa,1972,61.9
+Southern Africa,1971,62
+Southern Africa,1970,62.1
+Southern Africa,1969,62.2
+Southern Africa,1968,62.3
+Southern Africa,1967,62.4
+Southern Africa,1966,62.5
+Southern Africa,1965,62.6
+Southern Africa,1964,63
+Southern Africa,1963,63.5
+Southern Africa,1962,63.9
+Southern Africa,1961,64.4
+Southern Asia,2007,48.4
+Southern Asia,2006,48.4
+Southern Asia,2005,48.3
+Southern Asia,2004,50.9
+Southern Asia,2003,51
+Southern Asia,2002,50.8
+Southern Asia,2001,51.8
+Southern Asia,2000,51
+Southern Asia,1999,50.9
+Southern Asia,1998,51.1
+Southern Asia,1997,50.9
+Southern Asia,1996,50.9
+Southern Asia,1995,50.8
+Southern Asia,1994,50.8
+Southern Asia,1993,50.8
+Southern Asia,1992,50.7
+Southern Asia,1991,50.7
+Southern Asia,1990,50.5
+Southern Asia,1989,50.6
+Southern Asia,1988,50.7
+Southern Asia,1987,50.5
+Southern Asia,1986,50.3
+Southern Asia,1985,50.2
+Southern Asia,1984,50
+Southern Asia,1983,49.9
+Southern Asia,1982,49.9
+Southern Asia,1981,49.7
+Southern Asia,1980,49.6
+Southern Asia,1979,50
+Southern Asia,1978,49.9
+Southern Asia,1977,50
+Southern Asia,1976,49.9
+Southern Asia,1975,50
+Southern Asia,1974,49.9
+Southern Asia,1973,49.8
+Southern Asia,1972,49.5
+Southern Asia,1971,49.3
+Southern Asia,1970,49.3
+Southern Asia,1969,49.3
+Southern Asia,1968,49.3
+Southern Asia,1967,49.2
+Southern Asia,1966,49.2
+Southern Asia,1965,49.1
+Southern Asia,1964,48.9
+Southern Asia,1963,48.5
+Southern Asia,1962,48.5
+Southern Asia,1961,48.2
+Southern Europe,2007,51
+Southern Europe,2006,51.4
+Southern Europe,2005,52.3
+Southern Europe,2004,52.9
+Southern Europe,2003,53.1
+Southern Europe,2002,53.8
+Southern Europe,2001,54.1
+Southern Europe,2000,54.4
+Southern Europe,1999,54.6
+Southern Europe,1998,55
+Southern Europe,1997,54.9
+Southern Europe,1996,55.3
+Southern Europe,1995,55.4
+Southern Europe,1994,56.1
+Southern Europe,1993,56.1
+Southern Europe,1992,56.4
+Southern Europe,1991,57.6
+Southern Europe,1990,58.4
+Southern Europe,1989,58.6
+Southern Europe,1988,58.5
+Southern Europe,1987,58.7
+Southern Europe,1986,58.7
+Southern Europe,1985,58.8
+Southern Europe,1984,58.9
+Southern Europe,1983,59
+Southern Europe,1982,59.6
+Southern Europe,1981,59.7
+Southern Europe,1980,59.7
+Southern Europe,1979,59.8
+Southern Europe,1978,59.9
+Southern Europe,1977,59.8
+Southern Europe,1976,59.8
+Southern Europe,1975,60.2
+Southern Europe,1974,60.3
+Southern Europe,1973,60.5
+Southern Europe,1972,60.8
+Southern Europe,1971,61
+Southern Europe,1970,62.7
+Southern Europe,1969,63
+Southern Europe,1968,62.8
+Southern Europe,1967,63
+Southern Europe,1966,62.9
+Southern Europe,1965,63
+Southern Europe,1964,63.3
+Southern Europe,1963,63.7
+Southern Europe,1962,63.8
+Southern Europe,1961,63.9
+Western Africa,2007,47.1
+Western Africa,2006,46.9
+Western Africa,2005,46.6
+Western Africa,2004,45.3
+Western Africa,2003,45.1
+Western Africa,2002,44.9
+Western Africa,2001,44.6
+Western Africa,2000,44.1
+Western Africa,1999,43.8
+Western Africa,1998,43.6
+Western Africa,1997,43.1
+Western Africa,1996,43
+Western Africa,1995,43
+Western Africa,1994,42.7
+Western Africa,1993,42.3
+Western Africa,1992,42
+Western Africa,1991,41.8
+Western Africa,1990,41.6
+Western Africa,1989,41.2
+Western Africa,1988,41.1
+Western Africa,1987,40.9
+Western Africa,1986,40.9
+Western Africa,1985,40.7
+Western Africa,1984,40.5
+Western Africa,1983,40.5
+Western Africa,1982,40.3
+Western Africa,1981,40.2
+Western Africa,1980,40.2
+Western Africa,1979,40.1
+Western Africa,1978,40
+Western Africa,1977,39.9
+Western Africa,1976,39.9
+Western Africa,1975,39.8
+Western Africa,1974,39.7
+Western Africa,1973,39.8
+Western Africa,1972,39.8
+Western Africa,1971,39.8
+Western Africa,1970,39.8
+Western Africa,1969,39.9
+Western Africa,1968,39.9
+Western Africa,1967,39.7
+Western Africa,1966,39.7
+Western Africa,1965,39.6
+Western Africa,1964,39.6
+Western Africa,1963,39.5
+Western Africa,1962,39.5
+Western Africa,1961,39.4
+Western Asia,2007,57.1
+Western Asia,2006,57.2
+Western Asia,2005,57.4
+Western Asia,2004,57.4
+Western Asia,2003,57.3
+Western Asia,2002,57.4
+Western Asia,2001,57.2
+Western Asia,2000,57.1
+Western Asia,1999,57.2
+Western Asia,1998,57.1
+Western Asia,1997,56.9
+Western Asia,1996,56.8
+Western Asia,1995,56.9
+Western Asia,1994,57
+Western Asia,1993,57
+Western Asia,1992,46.6
+Western Asia,1991,46.6
+Western Asia,1990,46.4
+Western Asia,1989,45.2
+Western Asia,1988,44
+Western Asia,1987,42.9
+Western Asia,1986,41.6
+Western Asia,1985,40.4
+Western Asia,1984,39.1
+Western Asia,1983,37.8
+Western Asia,1982,37.9
+Western Asia,1981,38.2
+Western Asia,1980,38.2
+Western Asia,1979,38.2
+Western Asia,1978,38
+Western Asia,1977,38
+Western Asia,1976,38
+Western Asia,1975,38
+Western Asia,1974,38.1
+Western Asia,1973,38.2
+Western Asia,1972,38.1
+Western Asia,1971,37.8
+Western Asia,1970,37.7
+Western Asia,1969,37.8
+Western Asia,1968,37.6
+Western Asia,1967,37.5
+Western Asia,1966,37.6
+Western Asia,1965,37.7
+Western Asia,1964,37.8
+Western Asia,1963,37.8
+Western Asia,1962,37.6
+Western Asia,1961,37.6
+Western Europe,2007,50.3
+Western Europe,2006,50.4
+Western Europe,2005,50.5
+Western Europe,2004,50.6
+Western Europe,2003,50.7
+Western Europe,2002,50.6
+Western Europe,2001,50.7
+Western Europe,2000,50.8
+Western Europe,1999,51.1
+Western Europe,1998,51.4
+Western Europe,1997,51.4
+Western Europe,1996,51.4
+Western Europe,1995,51.5
+Western Europe,1994,51.5
+Western Europe,1993,51.5
+Western Europe,1992,51.4
+Western Europe,1991,52.1
+Western Europe,1990,53
+Western Europe,1989,53.2
+Western Europe,1988,53.4
+Western Europe,1987,53.8
+Western Europe,1986,54
+Western Europe,1985,54.1
+Western Europe,1984,54.2
+Western Europe,1983,54.3
+Western Europe,1982,54.6
+Western Europe,1981,54.7
+Western Europe,1980,54.7
+Western Europe,1979,55.1
+Western Europe,1978,55.4
+Western Europe,1977,55.4
+Western Europe,1976,55.6
+Western Europe,1975,56
+Western Europe,1974,56.2
+Western Europe,1973,56.2
+Western Europe,1972,56.4
+Western Europe,1971,56.7
+Western Europe,1970,56.7
+Western Europe,1969,57.6
+Western Europe,1968,57.6
+Western Europe,1967,58.2
+Western Europe,1966,58.5
+Western Europe,1965,58.7
+Western Europe,1964,58.7
+Western Europe,1963,58.9
+Western Europe,1962,59.1
+Western Europe,1961,59.2
+World,2007,37.9
+World,2006,38
+World,2005,38
+World,2004,38
+World,2003,38
+World,2002,38.1
+World,2001,38.2
+World,2000,38.1
+World,1999,38.1
+World,1998,38
+World,1997,37.9
+World,1996,37.9
+World,1995,37.9
+World,1994,37.9
+World,1993,37.9
+World,1992,37.6
+World,1991,37.2
+World,1990,37.2
+World,1989,37.1
+World,1988,37
+World,1987,36.8
+World,1986,36.7
+World,1985,36.5
+World,1984,36.2
+World,1983,36.1
+World,1982,35.9
+World,1981,35.8
+World,1980,35.8
+World,1979,35.7
+World,1978,35.5
+World,1977,35.5
+World,1976,35.5
+World,1975,35.5
+World,1974,35.4
+World,1973,35.3
+World,1972,35.2
+World,1971,35.1
+World,1970,35
+World,1969,34.9
+World,1968,34.7
+World,1967,34.7
+World,1966,34.6
+World,1965,34.5
+World,1964,34.4
+World,1963,34.3
+World,1962,34.2
+World,1961,34.2
